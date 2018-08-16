@@ -3,7 +3,7 @@ date: "`r paste0('v',format(Sys.time(), '%y.%m.%d'))`"
 output: 
   html_document:
     fig_caption: yes
-    theme: flatly
+    theme: spacelab
     toc: yes
     toc_depth: 1
     toc_float: yes
@@ -14,6 +14,21 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+# Contact
+
+Fish Ecology Division  
+Northwest Fisheries Science Center  
+National Marine Fisheries Service  
+National Oceanic and Atmospheric Administration  
+2725 Montlake Blvd E  
+Seattle, WA 98112
+
+mark.scheuerell@noaa.gov
+
+206.302.2437
+
+***
 
 # Education
 
