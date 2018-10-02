@@ -86,7 +86,7 @@ Richard C. Snyder Award for Vertebrate Zoology Research, Department of Zoology, 
 
 # Publications  {.hangingindent}
 
-#### _Authors in italics_ were students or post-docs at the time the research was completed.
+##### _Authors in italics_ were students or post-docs at the time the research was completed.
 
 [ _In review_ ]
 
