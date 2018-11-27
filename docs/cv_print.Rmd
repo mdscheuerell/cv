@@ -1,8 +1,11 @@
 ---
 date: "`r paste0('v',format(Sys.time(), '%y.%m.%d'))`"
-output: pdf_document
+output: 
+  pdf_document:
+    extra_dependencies: ["hanging"]
 fontsize: 11pt
 geometry: margin=1in
+urlcolor: black
 ---
 
 ```{r setup, include=FALSE}
@@ -15,22 +18,24 @@ knitr::opts_chunk$set(echo = TRUE)
   \begin{Large}
   \textbf{Mark D. Scheuerell}
   \end{Large}
-  
-Fish Ecology Division \\ 
-Northwest Fisheries Science Center \\ 
-National Marine Fisheries Service \\ 
-National Oceanic and Atmospheric Administration \\ 
-2725 Montlake Blvd E \\ 
-Seattle, WA 98112  
 
-mark.scheuerell@noaa.gov
-
-206.302.2437
+  \textit{Curriculum vitae}
 \end{center}
 
+  
+# Contact
+
+\vspace{-10pt}
+
+Fish Ecology Division \hfill mark.scheuerell@noaa.gov    
+Northwest Fisheries Science Center  
+2725 Montlake Blvd E \hfill tel: 206.302.2437  
+Seattle, WA 98112   
 
 
 # Education
+
+\vspace{-10pt}
 
 PhD, Zoology, University of Washington, 2002 (advisor: DE Schindler)  
 
@@ -39,24 +44,26 @@ MS, Fishery and Aquatic Science, Cornell University, 1995 (advisors: LG Rudstam 
 BS, Zoology, University of Wisconsin, 1991 (advisors: SR Carpenter & JF Kitchell)  
 
 
-
 # Professional experience
 
-__2003 - present__  
-Research Fisheries Biologist, NOAA Northwest Fisheries Science Center
+\vspace{-10pt}
 
-__2016 - present__  
-Affiliate Associate Professor, School of Aquatic and Fishery Sciences, University of Washington
+_Research Fisheries Biologist_ \hfill _2003 - present_  
+Northwest Fisheries Science Center, NOAA Fisheries \hfill Seattle, WA  
 
-__2007 - 2016__  
-Affiliate Assistant Professor, School of Aquatic and Fishery Sciences, University of Washington
+_Affiliate Associate Professor_ \hfill _2016 - present_  
+School of Aquatic and Fishery Sciences, University of Washington \hfill Seattle, WA  
 
-__2002 - 2003__  
-Postdoctoral Fellow, NOAA Northwest Fisheries Science Center and University of Washington
+_Affiliate Assistant Professor_ \hfill _2007 - 2016_  
+School of Aquatic and Fishery Sciences, University of Washington \hfill Seattle, WA  
 
+_Postdoctoral Fellow_ \hfill _2002 - 2003_  
+National Research Council \hfill Seattle, WA
 
 
 # Fellowships
+
+\vspace{-10pt}
 
 National Research Council Postdoctoral Research Associateship (2003)
 
@@ -67,8 +74,14 @@ NSF Graduate Research Training Grant in Mathematical Biology (1999)
 Electric Power Research Institute Fellowship in Fish Population Biology (1994)
 
 
-
 # Awards & Honors
+
+\vspace{-20pt}
+
+\setlength{\parindent}{-0.375in}
+\setlength{\leftskip}{0.375in}
+\setlength{\parskip}{8pt}
+\noindent
 
 Presidential Early Career Award for Scientists and Engineers, White House Office of Science and Technology Policy, Washington, District of Columbia (2006)
 
@@ -82,19 +95,29 @@ Ingrith Deyrup-Olsen Award for Distinguished Teaching Assistant, Department of Z
 
 Richard C. Snyder Award for Vertebrate Zoology Research, Department of Zoology, University of Washington, Seattle, Washington (1999)
 
+\setlength{\parindent}{0in}
+\setlength{\leftskip}{0in}
+\setlength{\parskip}{0pt}
 
 
 # Publications\footnote{Authors in italics were students or post-docs at the time the research was completed.}  
 
-[ _In review_ ] 
+\vspace{-20pt}
 
-Hampton SE, __Scheuerell MD__, Church MJ, Melack JM. Long-term perspectives in aquatic research. Limnology and Oceanography
+\setlength{\parindent}{-0.375in}
+\setlength{\leftskip}{0.375in}
+\setlength{\parskip}{8pt}
+\noindent
+
+[ _In review_ ] 
 
 __Scheuerell MD__, Ruff CP, Anderson JH, Beamer EM. Estimating density-dependent population dynamics in a variable environment with imperfect data.
 
-_Smits AP_, _Ruffing CM_, Royer TV, Appling AP, _Griffiths NA_, _Bellmore R_, __Scheuerell MD__, Harms TK, Jones J. Detecting signals of large-scale climate phenomena on river flows and nitrogen, phosphorus, and silica loads in the Mississippi-Atchafalaya River basin. Geophysical Research Letters
+_Smits AP_, _Ruffing CM_, Royer TV, Appling AP, _Griffiths NA_, _Bellmore R_, __Scheuerell MD__, Harms TK, Jones J. Detecting signals of large-scale climate phenomena on river flows and nitrogen, phosphorus, and silica loads in the Mississippi-Atchafalaya River basin.
 
 [ _In press or published_ ]
+
+60\. Hampton SE, __Scheuerell MD__, Church MJ, Melack JM. Long-term perspectives in aquatic research. Limnology and Oceanography
 
 59\. Thorson JT, __Scheuerell MD__, Olden JD, Schindler DE. Spatial heterogeneity contributes more to portfolio effects than species differences in bottom-associated marine fishes. Proceedings of the Royal Society B
 
@@ -214,9 +237,19 @@ _Smits AP_, _Ruffing CM_, Royer TV, Appling AP, _Griffiths NA_, _Bellmore R_, __
 
 1\. He X, Scheurell MD, Soranno PA, Wright RA. 1994. Recurrent response patterns of a zooplankton community to whole-lake fish manipulation. Freshwater Biology 32:61-72
 
+\setlength{\parindent}{0in}
+\setlength{\leftskip}{0in}
+\setlength{\parskip}{0pt}
 
 
 # Book chapters 
+
+\vspace{-20pt}
+
+\setlength{\parindent}{-0.375in}
+\setlength{\leftskip}{0.375in}
+\setlength{\parskip}{8pt}
+\noindent
 
 __Scheuerell MD__, Hilborn R. 2009. Estimating the freshwater component of essential fish habitat for Pacific salmon (Oncorhynchus spp.) with the Shiraz model. Pages 187-202 in Knudsen EE, Michael H (Eds.). Pacific Salmon Environmental and Life History Models: Advancing Science for Sustainable Salmon in the Future. American Fisheries Society Symposium 71. Bethesda, Maryland.
 
@@ -224,42 +257,72 @@ Fresh KL, Graeber W, Bartz KK, Davies JR, __Scheuerell MD__, Haas A, Ruckelshaus
 
 Dini ML, Soranno PA, __Scheuerell MD__, Carpenter SR. 1993. Effects of predators and food supply on diel vertical migration of Daphnia. Pages 153-171 in Carpenter SR, Kitchell JF (Eds.) The Trophic Cascade in Lakes. Cambridge University Press, Cambridge, England.
 
+\setlength{\parindent}{0in}
+\setlength{\leftskip}{0in}
+\setlength{\parskip}{0pt}
 
 
 # Other publications 
 
-Buhle ER, Scheuerell MD, Cooney TD, Ford MJ, Zabel RW, Thorson JT. 2018. Using Integrated Population Models to Evaluate Fishery and Environmental Impacts on Pacific Salmon Viability. U.S. Department of Commerce, NOAA Technical Memorandum NMFS-NWFSC-140. https://doi.org/10.7289/V5/TM-NWFSC-140
+\vspace{-20pt}
 
-Holmes EE, Ward EJ, Scheuerell MD. 2018. Analysis of multivariate time-series using the MARSS package, Version 3.10.8 DOC-NOAA-NMFS-NWC, Seattle, WA. Available online [here](http://cran.r-project.org/web/packages/MARSS/vignettes/UserGuide.pdf).
+\setlength{\parindent}{-0.375in}
+\setlength{\leftskip}{0.375in}
+\setlength{\parskip}{8pt}
+\noindent
 
-Schindler D, Krueger C, Bisson P, Bradford M, Clark B, Conitz J, Howard K, Jones M, Murphy J, Myers K, Scheuerell M, Volk E, Winton J. 2013. Arctic-Yukon-Kuskokwim Chinook Salmon Research Action Plan: Evidence of Decline of Chinook Salmon Populations and Recommendations for Future Research. Prepared for the AYK Sustainable Salmon Initiative (Anchorage, AK). v + 70 p.
+Buhle ER, __Scheuerell MD__, Cooney TD, Ford MJ, Zabel RW, Thorson JT. 2018. Using Integrated Population Models to Evaluate Fishery and Environmental Impacts on Pacific Salmon Viability. U.S. Department of Commerce, NOAA Technical Memorandum NMFS-NWFSC-140. Available online [here](https://doi.org/10.7289/V5/TM-NWFSC-140).
 
-Stout HA, Lawson PW, Bottom DL, Cooney TD, Ford MJ, Jordan CE, Kope RG, Kruzic LM, Pess GR, Reeves GH, Scheuerell MD, Wainwright TC, Waples RS, Ward E, Weitkamp LA, Williams JG, Williams TH. 2012. Scientific conclusions of the status review for Oregon coast coho salmon (_Oncorhynchus kisutch_). U.S. Dept. Commer., NOAA Tech. Memo. NMFS-NWFSC-118, 242 p.
+Holmes EE, Ward EJ, __Scheuerell MD__. 2018. Analysis of multivariate time-series using the MARSS package, Version 3.10.8 DOC-NOAA-NMFS-NWC, Seattle, WA. Available online [here](http://cran.r-project.org/web/packages/MARSS/vignettes/UserGuide.pdf).
 
-Peterman RM, Marmorek D, Beckman B, Bradford M, Mantua N, Riddell BE, Scheuerell M, Staley M, Wieckowski K, Winton JR, Wood CC. 2010. Synthesis of evidence from a workshop on the decline of Fraser River sockeye. June 15-17, 2010. Report to the Pacific Salmon Commission, Vancouver, B.C. 158 p.
+Schindler D, Krueger C, Bisson P, Bradford M, Clark B, Conitz J, Howard K, Jones M, Murphy J, Myers K, __Scheuerell M__, Volk E, Winton J. 2013. Arctic-Yukon-Kuskokwim Chinook Salmon Research Action Plan: Evidence of Decline of Chinook Salmon Populations and Recommendations for Future Research. Prepared for the AYK Sustainable Salmon Initiative (Anchorage, AK). v + 70 p.
 
-Scheuerell MD. 2005. Mapping the status of Pacific salmon [book review]. Trends in Ecology & Evolution 20:290-291
+Stout HA, Lawson PW, Bottom DL, Cooney TD, Ford MJ, Jordan CE, Kope RG, Kruzic LM, Pess GR, Reeves GH, __Scheuerell MD__, Wainwright TC, Waples RS, Ward E, Weitkamp LA, Williams JG, Williams TH. 2012. Scientific conclusions of the status review for Oregon coast coho salmon (_Oncorhynchus kisutch_). U.S. Dept. Commer., NOAA Tech. Memo. NMFS-NWFSC-118, 242 p.
 
-Williams JG, Smith SG, Zabel RW, Muir WD, Scheuerell MD, Sandford BP, Marsh DM, McNatt R, Achord S. 2005. Effects of the Federal Columbia River Power System on salmonid populations. U.S. Dept. of Commer. NOAA Tech. Memo. NMFS-NWFSC-63. 177 p.
+Peterman RM, Marmorek D, Beckman B, Bradford M, Mantua N, Riddell BE, __Scheuerell M__, Staley M, Wieckowski K, Winton JR, Wood CC. 2010. Synthesis of evidence from a workshop on the decline of Fraser River sockeye. June 15-17, 2010. Report to the Pacific Salmon Commission, Vancouver, B.C. 158 p.
 
+__Scheuerell MD__. 2005. Mapping the status of Pacific salmon [book review]. Trends in Ecology & Evolution 20:290-291
+
+Williams JG, Smith SG, Zabel RW, Muir WD, __Scheuerell MD__, Sandford BP, Marsh DM, McNatt R, Achord S. 2005. Effects of the Federal Columbia River Power System on salmonid populations. U.S. Dept. of Commer. NOAA Tech. Memo. NMFS-NWFSC-63. 177 p.
+
+\setlength{\parindent}{0in}
+\setlength{\leftskip}{0in}
+\setlength{\parskip}{0pt}
 
 
 # Technical products 
 
+\vspace{-20pt}
+
+\setlength{\parindent}{-0.375in}
+\setlength{\leftskip}{0.375in}
+\setlength{\parskip}{8pt}
+\noindent
+
 __R packages__
 
-Holmes EE, Ward EJ, Scheuerell MD, Willis K. 2018. MARSS: Multivariate Autoregressive State-Space Modeling. R Package Version 3.10.8
+Holmes EE, Ward EJ, __Scheuerell MD__, Willis K. 2018. MARSS: Multivariate Autoregressive State-Space Modeling. R Package Version 3.10.8
 https://cran.r-project.org/web/packages/MARSS/index.html
 
-Ward EJ, Scheuerell MD, Holmes EE. 2018. atsar: Applied Time Series Analysis in R: an introduction to time series analysis for ecological and fisheries data with Stan. R Package Version 1.0.1
+Ward EJ, __Scheuerell MD__, Holmes EE. 2018. atsar: Applied Time Series Analysis in R: an introduction to time series analysis for ecological and fisheries data with Stan. R Package Version 1.0.1
 https://doi.org/10.5281/zenodo.1158021
 
-Scheuerell MD. 2017. muti - An R package for computing mutual information. R Package Version 1.0.0
+__Scheuerell MD__. 2017. muti - An R package for computing mutual information. R Package Version 1.0.0
 https://doi.org/10.5281/zenodo.439391
 
+\setlength{\parindent}{0in}
+\setlength{\leftskip}{0in}
+\setlength{\parskip}{0pt}
 
 
 # Invited presentations 
+
+\vspace{-20pt}
+
+\setlength{\parindent}{-0.375in}
+\setlength{\leftskip}{0.375in}
+\setlength{\parskip}{8pt}
+\noindent
 
 Improved understanding of fisheries and ecosystems from noisy and disparate data. University of Alaska Fairbanks, College of Fisheries and Ocean Sciences, September 26, 2018, Fairbanks, Alaska
 
@@ -299,9 +362,19 @@ A model framework for relating life-history, freshwater habitat, and the ocean e
 
 Impacts of lakeshore residential development on the spatial distribution and energy sources of fishes. American Society of Limnology and Oceanography Aquatic Sciences Meeting, June 13, 2002, Victoria, British Columbia
 
+\setlength{\parindent}{0in}
+\setlength{\leftskip}{0in}
+\setlength{\parskip}{0pt}
 
 
 # External support 
+
+\vspace{-20pt}
+
+\setlength{\parindent}{-0.375in}
+\setlength{\leftskip}{0.375in}
+\setlength{\parskip}{8pt}
+\noindent
 
 North Pacific Research Board ($82k) 2017-2018. Retrospective analysis of long-term census data to identify factors affecting survival and life history strategies of coho salmon (Collaborator with Tallmon, Vulstek)
 
@@ -317,9 +390,16 @@ BPA FCRPS Biological Implementation Program ($297k) 2007-2009. Evaluating the ef
 
 NOAA Fisheries And The Environment (FATE) Program ($118k) 2006-2007. Developing quantitative tools to forecast the effects of climate variability on the population dynamics of Pacific salmon (PI with Zabel, Mantua)
 
+\setlength{\parindent}{0in}
+\setlength{\leftskip}{0in}
+\setlength{\parskip}{0pt}
 
 
 # Society membership
+
+\vspace{-10pt}
+
+\setlength{\parskip}{6pt}
 
 Ecological Society of America  
 
@@ -331,9 +411,14 @@ American Fisheries Society
 
   * _Chair, Committee for the Mercer Patriarche North American Journal of Fisheries Management Best Paper Award_ (2006)  
 
+\setlength{\parskip}{0pt}
 
 
 # Editorial responsibilities 
+
+\vspace{-10pt}
+
+\setlength{\parskip}{6pt}
 
 Associate Editor, _Limnology and Oceanography Letters_ (2016-present)
 
@@ -346,11 +431,24 @@ Associate Editor, _Ecological Research_ (2007-2017)
 Outstanding Reviewer, _Canadian Journal of Fisheries and Aquatic Sciences_ (2017)
 
 Manuscript & book reviewer for
-_Behavioural Ecology - Canadian Journal of Fisheries and Aquatic Sciences - Canadian Journal of Zoology - Conservation Biology - Ecography - Ecological Applications - Ecological Modelling - Ecology - Ecology and Society - Ecology Letters - Ecosphere - Ecosystems - Environmental Biology of Fishes - Fisheries Oceanography - Freshwater Biology - Frontiers in Ecology and the Environment - Global Change Biology - Journal of Animal Ecology - Journal of Applied Ecology - Journal of Bioeconomics - Limnology & Oceanography - North American Journal of Fisheries Management - Oecologia - Oikos - PLoS Biology - PLoS ONE - Proceedings of the National Academy of Sciences - Transactions of the American Fisheries Society - Trends in Ecology and Evolution_
 
+\setlength{\leftskip}{0.375in}
+
+_Behavioural Ecology \textbullet Canadian Journal of Fisheries and Aquatic Sciences \textbullet Canadian Journal of Zoology \textbullet Conservation Biology \textbullet Ecography \textbullet Ecological Applications \textbullet Ecological Modelling \textbullet Ecology \textbullet Ecology and Society \textbullet Ecology Letters \textbullet Ecosphere \textbullet Ecosystems \textbullet Environmental Biology of Fishes \textbullet Fisheries Oceanography \textbullet Freshwater Biology \textbullet Frontiers in Ecology and the Environment \textbullet Global Change Biology \textbullet Journal of Animal Ecology \textbullet Journal of Applied Ecology \textbullet Journal of Bioeconomics \textbullet Limnology & Oceanography \textbullet North American Journal of Fisheries Management \textbullet Oecologia \textbullet Oikos \textbullet PLoS Biology \textbullet PLoS ONE \textbullet Proceedings of the National Academy of Sciences \textbullet Transactions of the American Fisheries Society \textbullet Trends in Ecology and Evolution_
+
+\setlength{\leftskip}{0in}
+
+\setlength{\parskip}{0pt}
 
 
 # National & international service 
+
+\vspace{-20pt}
+
+\setlength{\parindent}{-0.375in}
+\setlength{\leftskip}{0.375in}
+\setlength{\parskip}{8pt}
+\noindent
 
 Mentor, EcologyPlus Program from NSF INCLUDES (Inclusion across the Nation of Communities of Learners of Underrepresented Discoverers in Engineering and Science) (2018-present)
 
@@ -366,33 +464,42 @@ Member, Expert Advisory Panel, Pacific Salmon Commission Bilateral Scientific Wo
 
 Member, Biological Review Team, National Marine Fisheries Service Risk Assessment of Oregon Coast Coho Salmon (2009-2010)
 
+\setlength{\parindent}{0in}
+\setlength{\leftskip}{0in}
+\setlength{\parskip}{0pt}
 
 
 # Teaching experience  
 
-__2013 - present__
+\vspace{-10pt}
 
-Visiting Instructor, University of Washington: _Applied Time Series Analysis in Fisheries and Environmental Sciences_
+\setlength{\parskip}{8pt}
 
-__1997 - present__
+Visiting Instructor \hfill 2013 - present  
+_Applied Time Series Analysis in Fisheries and Environmental Sciences_ \hfill University of Washington  
+  
+Guest Lecturer \hfill 1999 - present  
+_Limnology_; _Fisheries Stock Assessment_; _Water & Society_ \hfill University of Washington  
 
-Guest Lecturer, University of Washington: _Limnology_; _Mathematical Biology_; _Conservation & Management of Aquatic Resources_; _Fisheries Stock Assessment_; _Water & Society_
+Visiting Instructor \hfill 2014  
+_Applied Time Series Analyses for Ecologists_ \hfill Stockholm University  
 
-__2014__
+Visiting Instructor \hfill 2005 - 2007  
+_Theory and Application of Stable Isotopes in Ecology_ \hfill University of Washington
 
-Visiting Instructor, Stockholm University: _Applied Time Series Analyses for Ecologists_
+Teaching Assistant \hfill 1997 - 2000    
+_Limnology_; _Vertebrate Zoology_; _Comparative Vertebrate Anatomy_ \hfill University of Washington
 
-__2005 - 2007__
+\setlength{\parskip}{0pt}
 
-Visiting Instructor, University of Washington: _Theory and Application of Stable Isotopes in Ecology_
-
-__1997 - 2000__
-
-Teaching Assistant, Biology Program, University of Washington: _Limnology_, _Vertebrate Zoology_, _Comparative Vertebrate Anatomy_ 
 
 
 
 # Trainees
+
+\vspace{-10pt}
+
+\setlength{\parskip}{6pt}
 
 __Post-doctoral__
 
@@ -425,3 +532,5 @@ __M.S. students__
 __Undergraduate students__
 
 * Christina Murphy (NOAA Ernest F. Hollings Undergraduate Scholarship Program)
+
+\setlength{\parskip}{0pt}
