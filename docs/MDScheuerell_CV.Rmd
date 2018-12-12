@@ -126,11 +126,11 @@ _Smits AP_, _Ruffing CM_, Royer TV, Appling AP, _Griffiths NA_, _Bellmore R_, __
 
 [ _In press or published_ ]
 
-60\. Hampton SE, __Scheuerell MD__, Church MJ, Melack JM. Long-term perspectives in aquatic research. Limnology and Oceanography
+60\. Hampton SE, __Scheuerell MD__, Church MJ, Melack JM. _In press_. Long-term perspectives in aquatic research. Limnology and Oceanography
 
-59\. Thorson JT, __Scheuerell MD__, Olden JD, Schindler DE. Spatial heterogeneity contributes more to portfolio effects than species differences in bottom-associated marine fishes. Proceedings of the Royal Society B
+59\. Thorson JT, __Scheuerell MD__, Olden JD, Schindler DE. 2018. Spatial heterogeneity contributes more to portfolio effects than species differences in bottom-associated marine fishes. Proceedings of the Royal Society B 285:20180915
 
-58\. Ward EJ, _Oken K_, Rose KA, Sable S, Watkins K, Holmes EE, __Scheuerell MD__. 2018. Applying spatiotemporal models to monitoring data to quantify fish responses to the Deepwater Horizon oil spill in the Gulf of Mexico. Environmental Monitoring and Assessment
+58\. Ward EJ, _Oken K_, Rose KA, Sable S, Watkins K, Holmes EE, __Scheuerell MD__. 2018. Applying spatiotemporal models to monitoring data to quantify fish responses to the Deepwater Horizon oil spill in the Gulf of Mexico. Environmental Monitoring and Assessment 190:530
 
 57\. _Bal G_, __Scheuerell MD__, Ward EJ. 2018. Characterizing the strength of density dependence in at-risk species through Bayesian model averaging. Ecological Modelling 381:1-9
 
@@ -260,7 +260,7 @@ _Smits AP_, _Ruffing CM_, Royer TV, Appling AP, _Griffiths NA_, _Bellmore R_, __
 \setlength{\parskip}{8pt}
 \noindent
 
-__Scheuerell MD__, Hilborn R. 2009. Estimating the freshwater component of essential fish habitat for Pacific salmon (Oncorhynchus spp.) with the Shiraz model. Pages 187-202 in Knudsen EE, Michael H (Eds.). Pacific Salmon Environmental and Life History Models: Advancing Science for Sustainable Salmon in the Future. American Fisheries Society Symposium 71. Bethesda, Maryland.
+__Scheuerell MD__, Hilborn R. 2009. Estimating the freshwater component of essential fish habitat for Pacific salmon (_Oncorhynchus_ spp.) with the Shiraz model. Pages 187-202 in Knudsen EE, Michael H (Eds.). Pacific Salmon Environmental and Life History Models: Advancing Science for Sustainable Salmon in the Future. American Fisheries Society Symposium 71. Bethesda, Maryland.
 
 Fresh KL, Graeber W, Bartz KK, Davies JR, __Scheuerell MD__, Haas A, Ruckelshaus MH, Sanderson BL. 2009. Incorporating spatial structure and diversity into recovery planning for anadromous Pacific salmonids. Pages 403-428 in Knudsen EE, Michael H (Eds.). Pacific Salmon Environmental and Life History Models: Advancing Science for Sustainable Salmon. American Fisheries Society Symposium 71. Bethesda, Maryland.
 
@@ -307,8 +307,6 @@ Williams JG, Smith SG, Zabel RW, Muir WD, __Scheuerell MD__, Sandford BP, Marsh 
 \setlength{\leftskip}{0.375in}
 \setlength{\parskip}{8pt}
 \noindent
-
-__R packages__
 
 Holmes EE, Ward EJ, __Scheuerell MD__, Willis K. 2018. MARSS: Multivariate Autoregressive State-Space Modeling. R Package Version 3.10.8
 https://cran.r-project.org/web/packages/MARSS/index.html
@@ -412,14 +410,21 @@ NOAA Fisheries And The Environment (FATE) Program ($118k) 2006-2007. Developing 
 
 Ecological Society of America  
 
-  * _Secretary_, Aquatic Ecology Section (2008-2009)  
+\setlength{\leftskip}{0.375in}
+
+_Secretary_, Aquatic Ecology Section (2008-2009)  
+
+\setlength{\leftskip}{0in}
 
 Association for the Sciences of Limnology and Oceanography  
 
 American Fisheries Society  
 
-  * _Chair_, Committee for the Mercer Patriarche North American Journal of Fisheries Management Best Paper Award (2006)  
+\setlength{\leftskip}{0.375in}
 
+_Chair_, Committee for the Mercer Patriarche North American Journal of Fisheries Management Best Paper Award (2006)  
+
+\setlength{\leftskip}{0in}
 \setlength{\parskip}{0pt}
 
 
@@ -442,10 +447,12 @@ Outstanding Reviewer, _Canadian Journal of Fisheries and Aquatic Sciences_ (2017
 Manuscript & book reviewer for
 
 \setlength{\leftskip}{0.375in}
+\setlength{\rightskip}{0.375in}
 
 _Behavioural Ecology \textbullet Canadian Journal of Fisheries and Aquatic Sciences \textbullet Canadian Journal of Zoology \textbullet Conservation Biology \textbullet Ecography \textbullet Ecological Applications \textbullet Ecological Modelling \textbullet Ecology \textbullet Ecology and Society \textbullet Ecology Letters \textbullet Ecosphere \textbullet Ecosystems \textbullet Environmental Biology of Fishes \textbullet Fisheries Oceanography \textbullet Freshwater Biology \textbullet Frontiers in Ecology and the Environment \textbullet Global Change Biology \textbullet Journal of Animal Ecology \textbullet Journal of Applied Ecology \textbullet Journal of Bioeconomics \textbullet Limnology & Oceanography \textbullet North American Journal of Fisheries Management \textbullet Oecologia \textbullet Oikos \textbullet PLoS Biology \textbullet PLoS ONE \textbullet Proceedings of the National Academy of Sciences \textbullet Transactions of the American Fisheries Society \textbullet Trends in Ecology and Evolution_
 
 \setlength{\leftskip}{0in}
+\setlength{\rightskip}{0in}
 
 \setlength{\parskip}{0pt}
 
@@ -484,20 +491,20 @@ Member, Biological Review Team, National Marine Fisheries Service Risk Assessmen
 
 \setlength{\parskip}{8pt}
 
-Visiting Instructor \hfill 2013 - present  
-_Applied Time Series Analysis in Fisheries and Environmental Sciences_ \hfill University of Washington  
-  
-Guest Lecturer \hfill 1999 - present  
-_Limnology_; _Fisheries Stock Assessment_; _Water & Society_ \hfill University of Washington  
+_Applied Time Series Analysis in Fisheries and Environmental Sciences_    
+Visiting Instructor, University of Washington \hfill 2013 - present  
 
-Visiting Instructor \hfill 2014  
-_Applied Time Series Analyses for Ecologists_ \hfill Stockholm University  
+_Limnology_; _Fisheries Stock Assessment_; _Water & Society_  
+Guest Lecturer, University of Washington \hfill 1999 - present  
 
-Visiting Instructor \hfill 2005 - 2007  
-_Theory and Application of Stable Isotopes in Ecology_ \hfill University of Washington
+_Applied Time Series Analyses for Ecologists_  
+Visiting Instructor, Stockholm University \hfill 2014  
 
-Teaching Assistant \hfill 1997 - 2000    
-_Limnology_; _Vertebrate Zoology_; _Comparative Vertebrate Anatomy_ \hfill University of Washington
+_Theory and Application of Stable Isotopes in Ecology_  
+Visiting Instructor, University of Washington \hfill 2005 - 2007
+
+_Limnology_; _Vertebrate Zoology_; _Comparative Vertebrate Anatomy_  
+Teaching Assistant, University of Washington \hfill 1997 - 2000
 
 \setlength{\parskip}{0pt}
 
@@ -512,34 +519,34 @@ _Limnology_; _Vertebrate Zoology_; _Comparative Vertebrate Anatomy_ \hfill Unive
 
 __Post-doctoral__
 
-* Guillaume Bal (co-advised with EJ Ward)
+\quad Guillaume Bal (co-advised with EJ Ward)
 
-* Eric Buhle 
+\quad Eric Buhle 
 
-* Kirstin Holsman
+\quad Kirstin Holsman
 
-* Daniel Pendleton (co-advised with EE Holmes)
+\quad Daniel Pendleton (co-advised with EE Holmes)
 
-* Jim Thorson (co-advised with EE Holmes & EJ Ward)
+\quad Jim Thorson (co-advised with EE Holmes & EJ Ward)
 
 __Ph.D. students__
 
-* Tessa Francis (committee member)
+\quad Tessa Francis (committee member)
 
 __M.S. students__
 
-* Jessica Beetz (committee member)
+\quad Jessica Beetz (committee member)
 
-* Pascale Goertler (ad hoc committee member)
+\quad Pascale Goertler (ad hoc committee member)
 
-* Casey Ralston (committee member)
+\quad Casey Ralston (committee member)
 
-* Harry Rich (ad-hoc committee member)
+\quad Harry Rich (ad-hoc committee member)
 
-* Megan Stachura (ad-hoc committee member)
+\quad Megan Stachura (ad-hoc committee member)
 
 __Undergraduate students__
 
-* Christina Murphy (NOAA Ernest F. Hollings Undergraduate Scholarship Program)
+\quad Christina Murphy (NOAA Ernest F. Hollings Undergraduate Scholarship Program)
 
 \setlength{\parskip}{0pt}
