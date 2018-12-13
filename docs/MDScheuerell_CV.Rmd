@@ -2,7 +2,7 @@
 date: "`r paste0('v',format(Sys.time(), '%y.%m.%d'))`"
 output: 
   pdf_document:
-    extra_dependencies: ["hanging", "fancyhdr"]
+    extra_dependencies: ["hanging", "fancyhdr", "datetime"]
 geometry: margin=1in
 urlcolor: black
 ---
@@ -11,11 +11,13 @@ urlcolor: black
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+\newdateformat{mydate}{\THEYEAR.\twodigit{\THEMONTH}}
+
 \pagestyle{fancy}
 \fancyhead[LO,LE]{MD Scheuerell}
 \fancyhead[CO,CE]{}
 \fancyhead[RO,RE]{\textit{Curriculum vitae}}
-\fancyfoot[LO,LE]{\textit{v}18.12}
+\fancyfoot[LO,LE]{\mydate\today}
 \fancyfoot[CO,CE]{}
 \fancyfoot[RO,RE]{\thepage}
 
