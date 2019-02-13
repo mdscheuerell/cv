@@ -333,7 +333,9 @@ https://doi.org/10.5281/zenodo.439391
 \setlength{\parskip}{8pt}
 \noindent
 
-Improved understanding of fisheries and ecosystems from noisy and disparate data. University of Alaska Fairbanks, College of Fisheries and Ocean Sciences, September 26, 2018, Fairbanks, Alaska
+Quantitative approaches for improved management and conservation of aquatic resources. School of Aquatic and Fishery Sciences, University of Washington, February 7, 2019, Seattle, Washington
+
+Improved understanding of fisheries and ecosystems from noisy and disparate data. College of Fisheries and Ocean Sciences, University of Alaska Fairbanks, September 26, 2018, Fairbanks, Alaska
 
 The development and application of new tools in quantitative ecology. Western Society of Naturalists Meeting, November 17, 2017, Pasadena, California
 
@@ -391,7 +393,7 @@ NOAA Fisheries And The Environment (FATE) Program ($147k) 2015-2016. Improving s
 
 Arctic-Yukon-Kuskokwim Sustainable Salmon Initiative ($340k) 2013-2014. Multivariate analysis of factors affecting AYK Chinook salmon (co-PI with Hilborn, Schindler, Mantua)
 
-NSF-NOAA Comparative Analysis of Marine Ecosytem Organization (CAMEO) Program ($347k) 2009-2010. New statistical tools for analyzing community dynamics with applications to marine zooplankton (co-PI with Hampton, Holmes, Ward, Katz)
+NSF-NOAA Comparative Analysis of Marine Ecosystem Organization (CAMEO) Program ($347k) 2009-2010. New statistical tools for analyzing community dynamics with applications to marine zooplankton (co-PI with Hampton, Holmes, Ward, Katz)
 
 BPA FCRPS Biological Implementation Program ($299k) 2007-2009. Evaluating density-dependent effects of hatchery production on wild salmon (sole PI)
 
