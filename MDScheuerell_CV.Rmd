@@ -38,10 +38,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 \vspace{-10pt}
 
-Fish Ecology Division \hfill 206.302.2437 (tel)   
-Northwest Fisheries Science Center \hfill 206.860.3267 (fax)  
-2725 Montlake Blvd E \hfill mark.scheuerell@noaa.gov   
-Seattle WA 98112 \hfill https://faculty.washington.edu/scheuerl   
+School of Aquatic and Fishery Sciences \hfill 206.616. (tel)  
+University of Washington \hfill 206.616. (fax)  
+PO Box 355020 \hfill scheuerl@uw.edu  
+Seattle, WA 98195-5020  \hfill https://faculty.washington.edu/scheuerl  
 
 
 # Education
@@ -59,11 +59,17 @@ B.S., Zoology, University of Wisconsin (1991)
 
 \vspace{-10pt}
 
+_Assistant Unit Leader_  
+USGS Washington Cooperative Fish and Wildlife Research Unit \hfill 2019 - present
+
+_Associate Professor_  
+School of Aquatic and Fishery Sciences, University of Washington \hfill 2019 - present  
+
 _Research Fisheries Biologist_  
-Northwest Fisheries Science Center, NOAA Fisheries \hfill 2003 - present  
+Northwest Fisheries Science Center, NOAA Fisheries \hfill 2003 - 2019  
 
 _Affiliate Associate Professor_  
-School of Aquatic and Fishery Sciences, University of Washington \hfill 2016 - present  
+School of Aquatic and Fishery Sciences, University of Washington \hfill 2016 - 2019  
 
 _Affiliate Assistant Professor_  
 School of Aquatic and Fishery Sciences, University of Washington \hfill 2007 - 2016  
@@ -124,9 +130,9 @@ Richard C. Snyder Award for Vertebrate Zoology Research, Department of Zoology, 
 
 __Scheuerell MD__, Ruff CP, Anderson JH, Beamer EM. Estimating density-dependent population dynamics in a variable environment with imperfect data.
 
-_Smits AP_, _Ruffing CM_, Royer TV, Appling AP, _Griffiths NA_, _Bellmore R_, __Scheuerell MD__, Harms TK, Jones J. Detecting signals of large-scale climate phenomena on river flows and nitrogen, phosphorus, and silica loads in the Mississippi-Atchafalaya River basin.
-
 [ _In press or published_ ]
+
+61\. _Smits AP_, _Ruffing CM_, Royer TV, Appling AP, _Griffiths NA_, _Bellmore R_, __Scheuerell MD__, Harms TK, Jones J. 2019. Detecting signals of large-scale climate phenomena on river flows and nitrogen, phosphorus, and silica loads in the Mississippi-Atchafalaya River basin. Geophysical Research Letters 46:3791-3801
 
 60\. Hampton SE, __Scheuerell MD__, Church MJ, Melack JM. 2019. Long-term perspectives in aquatic research. Limnology and Oceanography 64(S1):S2-S10
 
