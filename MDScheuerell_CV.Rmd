@@ -38,8 +38,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 \vspace{-10pt}
 
-School of Aquatic and Fishery Sciences \hfill 206.616. (tel)  
-University of Washington \hfill 206.616. (fax)  
+School of Aquatic and Fishery Sciences \hfill 206.543.5997 (tel)  
+University of Washington \hfill 206.221.6931 (fax)  
 PO Box 355020 \hfill scheuerl@uw.edu  
 Seattle, WA 98195-5020  \hfill https://faculty.washington.edu/scheuerl  
 
