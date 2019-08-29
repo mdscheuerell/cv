@@ -36,7 +36,7 @@ knitr::opts_chunk$set(echo = TRUE)
   
 # Contact
 
-\vspace{-10pt}
+\vspace{-5pt}
 
 School of Aquatic and Fishery Sciences \hfill 206.543.5997 (tel)  
 University of Washington \hfill 206.221.6931 (fax)  
@@ -46,7 +46,7 @@ Seattle, WA 98195-5020  \hfill https://faculty.washington.edu/scheuerl
 
 # Education
 
-\vspace{-10pt}
+\vspace{-5pt}
 
 Ph.D., Zoology, University of Washington (2002)
 
@@ -57,7 +57,7 @@ B.S., Zoology, University of Wisconsin (1991)
 
 # Professional experience
 
-\vspace{-10pt}
+\vspace{-5pt}
 
 _Assistant Unit Leader_  
 USGS Washington Cooperative Fish and Wildlife Research Unit \hfill 2019 - present
@@ -80,7 +80,7 @@ National Research Council, National Academies of Sciences \hfill 2002 - 2003
 
 # Fellowships
 
-\vspace{-10pt}
+\vspace{-5pt}
 
 National Research Council Postdoctoral Research Associateship (2003)
 
@@ -93,7 +93,7 @@ Electric Power Research Institute Fellowship in Fish Population Biology (1994)
 
 # Awards & Honors
 
-\vspace{-20pt}
+\vspace{-15pt}
 
 \setlength{\parindent}{-0.375in}
 \setlength{\leftskip}{0.375in}
@@ -101,8 +101,6 @@ Electric Power Research Institute Fellowship in Fish Population Biology (1994)
 \noindent
 
 Presidential Early Career Award for Scientists and Engineers, White House Office of Science and Technology Policy, Washington, District of Columbia (2006)
-
-Selection to the American Society of Limnology and Oceanography DIALOG V Symposium, Bermuda Biological Station for Research, The Bermuda Islands (2003)  
 
 Best Student Presentation, American Fisheries Society, Alaska Chapter Annual Meeting, Girdwood, Alaska  (2002)  
 
@@ -208,13 +206,13 @@ __Scheuerell MD__, Ruff CP, Anderson JH, Beamer EM. Estimating density-dependent
 
 24\. Zabel RW, __Scheuerell MD__, McClure MM, Williams JG. 2006. The interplay between climate variability and density dependence in the population viability of Chinook salmon. Conservation Biology 20:190-200
 
-23\. Scheuerell JM, Schindler DE, __Scheuerell MD__, Fresh KL, Litt AH, Shepherd JA, Sibley T. 2005. Temporal dynamics in foraging behavior of a pelagic predator. Canadian Journal of Fisheries and Aquatic Sciences 62:2494-2501
+23\. _Scheuerell JM_, Schindler DE, __Scheuerell MD__, Fresh KL, Litt AH, Shepherd JA, Sibley T. 2005. Temporal dynamics in foraging behavior of a pelagic predator. Canadian Journal of Fisheries and Aquatic Sciences 62:2494-2501
 
 22\. __Scheuerell MD__, Williams JG. 2005. Forecasting climate-induced changes in the survival of Snake River spring/summer Chinook salmon. Fisheries Oceanography 14:448-457
 
 21\. __Scheuerell MD__. 2005. The influence of juvenile size on the age at maturity of individually-marked wild Chinook salmon. Transactions of the American Fisheries Society 134:999-1004 
 
-20\. Romare P, Schindler DE, __Scheuerell MD__, Scheuerell JM, Litt AH, Shepherd JH. 2005. Variation in spatial and temporal gradients in zooplankton spring development: the effect of climatic factors. Freshwater Biology 50:1007-1021
+20\. _Romare P_, Schindler DE, __Scheuerell MD__, _Scheuerell JM_, Litt AH, Shepherd JH. 2005. Variation in spatial and temporal gradients in zooplankton spring development: the effect of climatic factors. Freshwater Biology 50:1007-1021
 
 19\. __Scheuerell MD__, Levin PS, Zabel RW, Williams JG, Sanderson BL. 2005. A new perspective on the importance of marine-derived nutrients to threatened stocks of Pacific salmon (Oncorhynchus sp.). Canadian Journal of Fisheries and Aquatic Sciences 62:961-964
 
@@ -234,7 +232,7 @@ __Scheuerell MD__, Ruff CP, Anderson JH, Beamer EM. Estimating density-dependent
 
 11\. Schindler DE, __Scheuerell MD__, _Moore JW_, Gende SM, _Francis TB_, _Palen WJ_. 2003. Pacific salmon and the ecology of coastal ecosystems. Frontiers in Ecology and the Environment 1:31-37
 
-10\. _Moore JW_, Schindler DE, __Scheuerell MD__, Smith D, Frodge J. 2003. Lake eutrophication at the urban fringe. Ambio 32:13-18
+10\. _Moore JW_, Schindler DE, __Scheuerell MD__, _Smith D_, Frodge J. 2003. Lake eutrophication at the urban fringe. Ambio 32:13-18
 
 9\. __Scheuerell MD__, Schindler DE, Litt AH, Edmondson WT. 2002. Environmental and algal forcing of Daphnia production dynamics. Limnology and Oceanography 47:1477-1485
 
@@ -252,12 +250,13 @@ __Scheuerell MD__, Ruff CP, Anderson JH, Beamer EM. Estimating density-dependent
 
 2\. Mills EL, Strayer DL, __Scheuerell MD__, Carlton JT. 1996. Exotic species in the Hudson River basin: a history of invasions and introductions. Estuaries 19:814-823
 
-1\. He X, \footnote{"Scheuerell" misspelled in final printing.}Scheurell MD, Soranno PA, Wright RA. 1994. Recurrent response patterns of a zooplankton community to whole-lake fish manipulation. Freshwater Biology 32:61-72
+1\. _He X_, \footnote{"Scheuerell" misspelled in final printing.}__Scheurell MD__, _Soranno PA_, _Wright RA_. 1994. Recurrent response patterns of a zooplankton community to whole-lake fish manipulation. Freshwater Biology 32:61-72
 
 \setlength{\parindent}{0in}
 \setlength{\leftskip}{0in}
 \setlength{\parskip}{0pt}
 
+\pagebreak
 
 # Book chapters 
 
