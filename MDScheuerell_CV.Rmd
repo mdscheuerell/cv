@@ -130,6 +130,8 @@ __Scheuerell MD__, Ruff CP, Anderson JH, Beamer EM. An integrated population mod
 
 [ _In press or published_ ]
 
+62\. _Siple MC_, Essington TE, Barnett LAK, __Scheuerell MD__. 2020. Limited evidence for sardine and anchovy asynchrony: re-examining an old story. Proceedings of the Royal Society B 
+
 61\. _Smits AP_, _Ruffing CM_, Royer TV, Appling AP, _Griffiths NA_, _Bellmore R_, __Scheuerell MD__, Harms TK, Jones J. 2019. Detecting signals of large-scale climate phenomena on river flows and nitrogen, phosphorus, and silica loads in the Mississippi-Atchafalaya River basin. Geophysical Research Letters 46:3791-3801
 
 60\. Hampton SE, __Scheuerell MD__, Church MJ, Melack JM. 2019. Long-term perspectives in aquatic research. Limnology and Oceanography 64(S1):S2-S10
@@ -287,9 +289,9 @@ Dini ML, Soranno PA, __Scheuerell MD__, Carpenter SR. 1993. Effects of predators
 \setlength{\parskip}{8pt}
 \noindent
 
-Buhle ER, __Scheuerell MD__, Cooney TD, Ford MJ, Zabel RW, Thorson JT. 2018. Using Integrated Population Models to Evaluate Fishery and Environmental Impacts on Pacific Salmon Viability. U.S. Department of Commerce, NOAA Technical Memorandum NMFS-NWFSC-140.
+Holmes EE, Ward EJ, __Scheuerell MD__. 2020. Analysis of multivariate time-series using the MARSS package, Version 3.10.12. [http://cran.r-project.org/web/packages/MARSS/vignettes/UserGuide.pdf](http://cran.r-project.org/web/packages/MARSS/vignettes/UserGuide.pdf).
 
-Holmes EE, Ward EJ, __Scheuerell MD__. 2018. Analysis of multivariate time-series using the MARSS package, Version 3.10.8. [http://cran.r-project.org/web/packages/MARSS/vignettes/UserGuide.pdf](http://cran.r-project.org/web/packages/MARSS/vignettes/UserGuide.pdf).
+Buhle ER, __Scheuerell MD__, Cooney TD, Ford MJ, Zabel RW, Thorson JT. 2018. Using Integrated Population Models to Evaluate Fishery and Environmental Impacts on Pacific Salmon Viability. U.S. Department of Commerce, NOAA Technical Memorandum NMFS-NWFSC-140.
 
 Schindler D, Krueger C, Bisson P, Bradford M, Clark B, Conitz J, Howard K, Jones M, Murphy J, Myers K, __Scheuerell M__, Volk E, Winton J. 2013. Arctic-Yukon-Kuskokwim Chinook Salmon Research Action Plan: Evidence of Decline of Chinook Salmon Populations and Recommendations for Future Research. Prepared for the AYK Sustainable Salmon Initiative, Anchorage, Alaska. v + 70 p.
 
@@ -315,7 +317,7 @@ Williams JG, Smith SG, Zabel RW, Muir WD, __Scheuerell MD__, Sandford BP, Marsh 
 \setlength{\parskip}{8pt}
 \noindent
 
-Holmes EE, Ward EJ, __Scheuerell MD__, Willis K. 2018. MARSS: Multivariate Autoregressive State-Space Modeling. R Package Version 3.10.8
+Holmes EE, Ward EJ, __Scheuerell MD__, Willis K. 2020. MARSS: Multivariate Autoregressive State-Space Modeling. R Package Version 3.10.12
 https://cran.r-project.org/web/packages/MARSS/index.html
 
 Ward EJ, __Scheuerell MD__, Holmes EE. 2018. atsar: Applied Time Series Analysis in R: an introduction to time series analysis for ecological and fisheries data with Stan. R Package Version 1.0.1
