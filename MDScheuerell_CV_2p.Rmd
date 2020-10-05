@@ -1,0 +1,142 @@
+---
+date: "`r paste0('v',format(Sys.time(), '%y.%m.%d'))`"
+output: 
+  pdf_document:
+    extra_dependencies: ["hanging", "fancyhdr", "datetime"]
+geometry: margin=1in
+urlcolor: black
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+\newdateformat{mydate}{\THEYEAR.\twodigit{\THEMONTH}}
+
+\pagestyle{fancy}
+\fancyhead[LO,LE]{MD Scheuerell}
+\fancyhead[CO,CE]{}
+\fancyhead[RO,RE]{\textit{Curriculum vitae}}
+\fancyfoot[LO,LE]{\mydate\today}
+\fancyfoot[CO,CE]{}
+\fancyfoot[RO,RE]{\thepage}
+
+\thispagestyle{empty}
+
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+
+\begin{center}
+  \begin{Large}
+  \textbf{Mark D. Scheuerell}
+  \end{Large}
+  
+U.S. Geological Survey Washington Cooperative Fish and Wildlife Research Unit \\
+School of Aquatic and Fishery Sciences \\
+University of Washington \\
+PO Box 355020 \\
+Seattle, WA 98195-5020 \\
+scheuerl@uw.edu \\
+206.543.5997
+\end{center}
+
+
+# Education
+
+\vspace{-5pt}
+
+Ph.D., Zoology, University of Washington (2002)
+
+M.S., Fishery and Aquatic Science, Cornell University (1995)  
+
+B.S., Zoology, University of Wisconsin (1991) 
+
+
+# Professional experience
+
+\vspace{-5pt}
+
+_Assistant Unit Leader_  
+USGS Washington Cooperative Fish and Wildlife Research Unit \hfill 2019 - present
+
+_Associate Professor_  
+School of Aquatic and Fishery Sciences, University of Washington \hfill 2019 - present  
+
+_Research Fisheries Biologist_  
+Northwest Fisheries Science Center, NOAA Fisheries \hfill 2003 - 2019  
+
+_Affiliate Associate Professor_  
+School of Aquatic and Fishery Sciences, University of Washington \hfill 2016 - 2019  
+
+_Affiliate Assistant Professor_  
+School of Aquatic and Fishery Sciences, University of Washington \hfill 2007 - 2016  
+
+
+# Other professional activities 
+
+\vspace{-20pt}
+
+\setlength{\parindent}{-0.375in}
+\setlength{\leftskip}{0.375in}
+\setlength{\parskip}{8pt}
+\noindent
+
+Member, Chinook Salmon Expert Panel, Arctic-Yukon-Kuskokwim Sustainable Salmon Initiative (2011-2012)
+
+Member, Expert Advisory Panel, Pacific Salmon Commission Bilateral Scientific Workshop to Examine the Decline in Fraser River Sockeye (2010)
+
+Member, Biological Review Team, National Marine Fisheries Service Risk Assessment of Oregon Coast Coho Salmon (2009-2010)
+
+\setlength{\parindent}{0in}
+\setlength{\leftskip}{0in}
+\setlength{\parskip}{0pt}
+
+
+# Relevant publications  
+
+\vspace{-20pt}
+
+\setlength{\parindent}{-0.375in}
+\setlength{\leftskip}{0.375in}
+\setlength{\parskip}{8pt}
+\noindent
+
+Holmes EE, Ward EJ, __Scheuerell MD__. 2020. Analysis of multivariate time-series using the MARSS package, Version 3.10.12. [http://cran.r-project.org/web/packages/MARSS/vignettes/UserGuide.pdf](http://cran.r-project.org/web/packages/MARSS/vignettes/UserGuide.pdf).
+
+__Scheuerell MD__, Ruff CP, Anderson JH, Beamer EM. _In press_. An integrated population model for estimating the relative effects of natural and anthropogenic factors on a threatened population of steelhead trout. Journal of Applied Ecology
+
+Buhle ER, __Scheuerell MD__, Cooney TD, Ford MJ, Zabel RW, Thorson JT. 2018. Using Integrated Population Models to Evaluate Fishery and Environmental Impacts on Pacific Salmon Viability. U.S. Department of Commerce, NOAA Technical Memorandum NMFS-NWFSC-140.
+
+Bal G, __Scheuerell MD__, Ward EJ. 2018. Characterizing the strength of density dependence in at-risk species through Bayesian model averaging. Ecological Modelling 381:1-9
+
+Honea JM, McClure MM, Jorgensen JC, __Scheuerell MD__. 2016. Assessing the vulnerability of freshwater life stages of Chinook salmon to climate change. Climate Research 71:127-137
+
+Goertler PAL, __Scheuerell MD__, Simenstad CA, Bottom DL. 2016. Estimating common growth patterns in juvenile Chinook salmon (Oncorhynchus tshawytscha) from diverse genetic stocks and a large spatial extent. PLoS ONE 11:e0162121
+
+Ohlberger J, __Scheuerell MD__, Schindler DE. 2016. Population coherence and environmental impacts across spatial scales: a case study of Chinook salmon. Ecosphere 7:e01333
+
+Jorgensen JC, Ward EJ, __Scheuerell MD__, Zabel RW. 2016. Assessing spatial covariance among time series of abundance. Ecology and Evolution 6:2472–2485
+
+__Scheuerell MD__, Buhle ER, Semmens BX, Ford MJ, Cooney T, Carmichael RW. 2015. Analyzing large-scale conservation interventions with Bayesian hierarchical models: A case study of supplementing threatened Pacific salmon. Ecology and Evolution 5:2115–2125
+
+Griffiths JR, Schindler DE, Armstrong JB, __Scheuerell MD__, Whited DC, Clarke RA, Hilborn R, Holt CA, Lindley ST, Stanford JA, Volk EC. 2014. Performance of salmon fishery portfolios across western North America. Journal of Applied Ecology 51:1554–1563
+
+Stachura MM, Mantua NJ, __Scheuerell MD__. 2014. Oceanographic influences on spatio-temporal patterns in North Pacific salmon abundance. Canadian Journal of Fisheries and Aquatic Sciences 71:226-235
+
+Thorson JT, __Scheuerell MD__, Buhle ER, Copeland T. 2014. Spatial diversity buffers temporal variability in early juvenile survival for an endangered Pacific salmon. Journal of Animal Ecology 83:157–167
+
+Schindler D, Krueger C, Bisson P, Bradford M, Clark B, Conitz J, Howard K, Jones M, Murphy J, Myers K, __Scheuerell M__, Volk E, Winton J. 2013. Arctic-Yukon-Kuskokwim Chinook Salmon Research Action Plan: Evidence of Decline of Chinook Salmon Populations and Recommendations for Future Research. Prepared for the AYK Sustainable Salmon Initiative, Anchorage, Alaska. v + 70 p.
+
+Holsman KK, __Scheuerell MD__, Buhle ER, Emmett R. 2012. Interacting effects of translocation, artificial propagation, and environmental conditions on the marine survival of Chinook salmon from the Columbia River, Washington, U.S.A. Conservation Biology 26:912-922 
+
+Crozier LG, __Scheuerell MD__, Zabel RW. 2011. Using time series analysis to characterize evolutionary and plastic responses to environmental change: a case study of a shift toward earlier migration date in sockeye salmon. The American Naturalist 178:755-773
+
+__Scheuerell MD__, Zabel RW, Sandford BP. 2009. Relating juvenile migration timing and survival to adulthood in two species of threatened Pacific salmon (Oncorhynchus spp.). Journal of Applied Ecology 46:983–990
+
+Buhle ER, Holsman KK, __Scheuerell MD__, Albaugh A. 2009. Using an unplanned experiment to evaluate the effects of hatcheries and environmental variation on threatened populations of wild salmon. Biological Conservation 142:2449–2455
+
+Waples RS, Zabel RW, __Scheuerell MD__, Sanderson BL. 2008. Evolutionary responses by native species to major anthropogenic changes to their ecosystems: Pacific salmon in the Columbia River hydropower system. Molecular Ecology 17:84-96
+
+\setlength{\parindent}{0in}
+\setlength{\leftskip}{0in}
+\setlength{\parskip}{0pt}
+
