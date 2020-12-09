@@ -2,10 +2,8 @@
 date: "`r paste0('v',format(Sys.time(), '%y.%m.%d'))`"
 output: 
   pdf_document:
-    extra_dependencies: ["hanging", "fancyhdr"]
+    extra_dependencies: ["hanging", "fancyhdr", "datetime"]
 geometry: margin=1in
-papersize: letter
-fontsize: 12pt
 urlcolor: black
 ---
 
@@ -13,93 +11,73 @@ urlcolor: black
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-\pagestyle{fancy}
+\pagenumbering{gobble}
 
-\renewcommand{\headrulewidth}{0.5pt}
+\begin{center}
+  \begin{Large}
+  \textbf{Mark D. Scheuerell}
+  \end{Large}
+  
+U.S. Geological Survey Washington Cooperative Fish and Wildlife Research Unit \\
+School of Aquatic and Fishery Sciences\textperiodcentered University of Washington \\
+Box 355020\textperiodcentered Seattle, WA 98195-5020 \\
+scheuerl@uw.edu \\
+\end{center}
 
-\renewcommand{\footrulewidth}{0.5pt}
-
-\fancyhead[LO,LE]{}
-\fancyhead[CO,CE]{\large{\textbf{Mark D. Scheuerell}}\\ \small{Northwest Fisheries Science Center\textperiodcentered 2725 Montlake Blvd E\textperiodcentered Seattle WA 98112}}
-\fancyhead[RO,RE]{}
-\fancyfoot[LO,LE]{\small{Email: mark.scheuerell@noaa.gov}}
-\fancyfoot[CO,CE]{}
-\fancyfoot[RO,RE]{\small{Tel: 206.406.9055}}
-
-
-\vspace*{-35pt}
 
 ## Education
 
-\vspace{-10pt}
+\vspace{-3pt}
 
-Ph.D., Zoology, University of Washington (2002)
+Ph.D., Zoology, University of Washington (2002)  
 
 M.S., Fishery and Aquatic Science, Cornell University (1995)  
 
 B.S., Zoology, University of Wisconsin (1991) 
 
 
-\vspace{-10pt}
-
 ## Professional experience
 
-\vspace{-10pt}
+\vspace{-3pt}
+
+_Assistant Unit Leader - Fisheries_   
+USGS Washington Cooperative Fish and Wildlife Research Unit \hfill 2019 - present
+
+_Associate Professor_  
+School of Aquatic and Fishery Sciences, University of Washington \hfill 2019 - present  
 
 _Research Fisheries Biologist_  
-Northwest Fisheries Science Center, NOAA Fisheries \hfill 2003 - present  
-
-_Affiliate Associate Professor_  
-School of Aquatic and Fishery Sciences, University of Washington \hfill 2016 - present  
-
-_Affiliate Assistant Professor_  
-School of Aquatic and Fishery Sciences, University of Washington \hfill 2007 - 2016  
-
-_Post-doctoral Fellow_  
-National Research Council, National Academies of Sciences \hfill 2002 - 2003
+Northwest Fisheries Science Center, NOAA Fisheries \hfill 2003 - 2019  
 
 
-\vspace{-10pt}
+## Relevant publications  
 
-## Teaching experience  
-
-\vspace{-10pt}
-
-\setlength{\parskip}{8pt}
-
-_Applied Time Series Analysis in Fisheries and Environmental Sciences_    
-Visiting Instructor, University of Washington \hfill 2013 - present  
-
-_Limnology_; _Water & Society_; _Fisheries Stock Assessment_  
-Guest Lecturer, University of Washington \hfill 1999 - present  
-
-_Applied Time Series Analyses for Ecologists_  
-Visiting Instructor, Stockholm University \hfill 2014  
-
-
-\vspace{-10pt}
-
-## National & international service 
-
-\vspace{-20pt}
+\vspace{-11pt}
 
 \setlength{\parindent}{-0.375in}
 \setlength{\leftskip}{0.375in}
 \setlength{\parskip}{8pt}
 \noindent
 
-Mentor, EcologyPlus Program from NSF INCLUDES (Inclusion across the Nation of Communities of Learners of Underrepresented Discoverers in Engineering and Science) (2018-present)
+Holmes EE, Ward EJ, __Scheuerell MD__. 2020. Analysis of multivariate time-series using the MARSS package, Version 3.10.12. [http://cran.r-project.org/web/packages/MARSS/vignettes/UserGuide.pdf](http://cran.r-project.org/web/packages/MARSS/vignettes/UserGuide.pdf).
 
-Mentor, Ecological Society of America Early Career Ecologist Mentorship Program (2017)
+Siple MC, Essington TE, Barnett LAK, __Scheuerell MD__. 2020. Limited evidence for sardine and anchovy asynchrony: re-examining an old story. Proceedings of the Royal Society B 287:20192781
 
-Mentor, Stream Resilience Research Coordination Network, Working Group 2 - Time Series Analysis (2015-2016)
+Smits AP, Ruffing CM, Royer TV, Appling AP, Griffiths NA, Bellmore R, __Scheuerell MD__, Harms TK, Jones J. 2019. Detecting signals of large-scale climate phenomena on river flows and nitrogen, phosphorus, and silica loads in the Mississippi-Atchafalaya River basin. Geophysical Research Letters 46:3791-3801
 
-Analyst, U.S. Departments of Commerce and Justice, Deepwater Horizon Natural Resource Damage Assessment (2014-2015)
+Thorson JT, __Scheuerell MD__, Olden JD, Schindler DE. 2018. Spatial heterogeneity contributes more to portfolio effects than species differences in bottom-associated marine fishes. Proceedings of the Royal Society B 285:20180915
 
-Member, Chinook Salmon Expert Panel, Arctic-Yukon-Kuskokwim Sustainable Salmon Initiative (2011-2012)
+Thorson JT, Ianelli JN, Larsen EA, Ries L __Scheuerell MD__, Szuwalski CS, Zipkin EF. 2016. Joint dynamic species distribution models: a tool for community ordination and spatiotemporal monitoring. Global Ecology and Biogeography 25:1144–1158
 
-Member, Expert Advisory Panel, Pacific Salmon Commission Bilateral Scientific Workshop to Examine the Decline in Fraser River Sockeye (2010)
+Ohlberger J, __Scheuerell MD__, Schindler DE. 2016. Population coherence and environmental impacts across spatial scales: a case study of Chinook salmon. Ecosphere 7:e01333
+
+Francis TB, Wolkovich EM, __Scheuerell MD__, Katz SL, Holmes EE, Hampton SE. 2014. Shifting regimes and changing interactions in the Lake Washington, U.S.A., plankton community from 1962–1994. PLoS ONE 9:e110363
+
+Hampton SE, Holmes EE, Scheef LP, __Scheuerell MD__, Katz SL, Pendleton DE, Ward EJ. 2013. Quantifying effects of abiotic and biotic drivers on community dynamics with multivariate autoregressive (MAR) models. Ecology 94:2663–2669
+
+Francis TB, __Scheuerell MD__, Brodeur R, Levin PS, Ruzicka JJ, Tolimieri N, Peterson WT. 2012. Climate shifts the interaction web of a marine plankton community. Global Change Biology 18:2498–2508
 
 \setlength{\parindent}{0in}
 \setlength{\leftskip}{0in}
 \setlength{\parskip}{0pt}
+
