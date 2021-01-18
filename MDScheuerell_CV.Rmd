@@ -59,7 +59,7 @@ B.S., Zoology, University of Wisconsin (1991)
 
 \vspace{-5pt}
 
-_Assistant Unit Leader - Fisheries_ 
+_Assistant Unit Leader - Fisheries_  
 USGS Washington Cooperative Fish and Wildlife Research Unit \hfill 2019 - present
 
 _Associate Professor_  
@@ -114,10 +114,13 @@ Richard C. Snyder Award for Vertebrate Zoology Research, Department of Zoology, 
 \setlength{\leftskip}{0in}
 \setlength{\parskip}{0pt}
 
+\vspace{15pt}
 
-# Publications\footnote{Authors in italics were students or post-docs at the time the research was completed.}  
+\Large __Publications__\footnote{Authors in italics were students or post-docs at the time the research was completed.}
 
-\vspace{-20pt}
+\normalsize
+
+\vspace{-10pt}
 
 \setlength{\parindent}{-0.375in}
 \setlength{\leftskip}{0.375in}
@@ -126,9 +129,19 @@ Richard C. Snyder Award for Vertebrate Zoology Research, Department of Zoology, 
 
 [ _In review_ ] 
 
+_Magel CL_, __Scheuerell MD__, Buhle ER, Lewis DJ, Weeber M, Hacker SD. In review. Estuary and upland habitats are equally important for the production of threatened Oregon Coast coho salmon populations
+
+_DeFilippo LB_, _Buehrens TW_, __Scheuerell MD__, Kendall NW, Schindler DE. In review. Improving short-term recruitment forecasts for coho salmon using a spatiotemporal integrated population model
+
+_Webster A_, Douglas T, Harms TK, Regier P, __Scheuerell MD__. In review. Multi-scale temporal patterns in stream biogeochemistry indicate linked permafrost and ecological dynamics of boreal catchments
+
+_McGowan DW_, Branch TA, Haught S, __Scheuerell MD__. In review. Multi-decadal shifts in the distribution and timing of Pacific herring (_Clupea pallasii_) spawning in Prince William Sound, Alaska
+
+Jankowski K, Houser JN, __Scheuerell MD__, Smits AP. In review. Warmer winters increase phytoplankton biomass in a large floodplain river
+
 [ _In press or published_ ]
 
-63\. __Scheuerell MD__, Ruff CP, Anderson JH, Beamer EM. An integrated population model for estimating the relative effects of natural and anthropogenic factors on a threatened population of steelhead trout.
+63\. __Scheuerell MD__, Ruff CP, Anderson JH, Beamer EM. 2021. An integrated population model for estimating the relative effects of natural and anthropogenic factors on a threatened population of steelhead trout. Journal of Applied Ecology 58:114-124
 
 62\. _Siple MC_, Essington TE, Barnett LAK, __Scheuerell MD__. 2020. Limited evidence for sardine and anchovy asynchrony: re-examining an old story. Proceedings of the Royal Society B 287:20192781
 
@@ -257,8 +270,6 @@ Richard C. Snyder Award for Vertebrate Zoology Research, Department of Zoology, 
 \setlength{\parindent}{0in}
 \setlength{\leftskip}{0in}
 \setlength{\parskip}{0pt}
-
-\pagebreak
 
 # Book chapters 
 
@@ -500,11 +511,14 @@ Member, Biological Review Team, National Marine Fisheries Service Risk Assessmen
 
 \setlength{\parskip}{8pt}
 
-_Applied Time Series Analysis in Fisheries and Environmental Sciences_    
-Visiting Instructor, University of Washington \hfill 2013 - present  
+_Introduction to Environmental Data Science_    
+Instructor, University of Washington \hfill 2021 - present  
 
-_Limnology_; _Fisheries Stock Assessment_; _Water & Society_  
-Guest Lecturer, University of Washington \hfill 1999 - present  
+_Analysis of Ecological and Environmental Data_    
+Instructor, University of Washington \hfill 2020 - present  
+
+_Applied Time Series Analysis in Fisheries and Environmental Sciences_    
+Co-Instructor, University of Washington \hfill 2013 - present  
 
 _Applied Time Series Analyses for Ecologists_  
 Visiting Instructor, Stockholm University \hfill 2014  
@@ -546,6 +560,10 @@ __Ph.D. students__
 
 __M.S. students__
 
+\quad Kelly Mistry, Univ Washington (chair)
+
+\quad Markus Min, Univ Washington (chair)
+
 \quad Jessica Beetz, Univ Washington (committee member)
 
 \quad Pascale Goertler, Univ Washington (ad hoc committee member)
@@ -557,6 +575,8 @@ __M.S. students__
 \quad Megan Stachura, Univ Washington (ad-hoc committee member)
 
 __Undergraduate students__
+
+\quad Kerrianne McCarthy, Univ Washington (Undergraduate Capstone Program)
 
 \quad Christina Murphy, Oregon St Univ (NOAA Ernest F. Hollings Undergraduate Scholarship Program)
 
