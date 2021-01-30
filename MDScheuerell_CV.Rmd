@@ -490,11 +490,8 @@ _Behavioural Ecology\textperiodcentered Canadian Journal of Fisheries and Aquati
 \setlength{\parskip}{8pt}
 \noindent
 
-<<<<<<< HEAD
 Member, U.S. Geological Survey Cooperative Research Units Diversity, Equity, and Inclusion Committee (2020-present)
 
-=======
->>>>>>> 53a589989f9c48cc515366d7a797d7822736957a
 Member, Analytic and Review Team, Bull Trout Status Assessment, U.S. Fish and Wildlife Service (2020-present)
 
 Mentor, EcologyPlus Program from NSF INCLUDES (Inclusion across the Nation of Communities of Learners of Underrepresented Discoverers in Engineering and Science) (2018-2019)
@@ -517,29 +514,18 @@ Member, Biological Review Team, National Marine Fisheries Service Risk Assessmen
 
 # University of Washington service
 
-### College committees
-
 \vspace{-15pt}
 
 \setlength{\parindent}{-0.375in}
 \setlength{\leftskip}{0.375in}
 \setlength{\parskip}{8pt}
 \noindent
+
+**College committees**
 
 College of the Environment, Academic Grievance Committee (2020-present)
 
-\setlength{\parindent}{0in}
-\setlength{\leftskip}{0in}
-\setlength{\parskip}{0pt}
-
-### School committees
-
-\vspace{-15pt}
-
-\setlength{\parindent}{-0.375in}
-\setlength{\leftskip}{0.375in}
-\setlength{\parskip}{8pt}
-\noindent
+**School committees**
 
 School of Aquatic and Fishery Sciences, Students Exploring Aquatic Sciences (2020-present)
 
@@ -552,18 +538,7 @@ School of Environmental and Forestry Sciences, Human Dimensions of Wildlife Facu
 
 Quantitative Ecology and Resource Management, Qualifying Exam Committee (2020)
 
-\setlength{\parindent}{0in}
-\setlength{\leftskip}{0in}
-\setlength{\parskip}{0pt}
-
-### General service
-
-\vspace{-15pt}
-
-\setlength{\parindent}{-0.375in}
-\setlength{\leftskip}{0.375in}
-\setlength{\parskip}{8pt}
-\noindent
+**General service**
 
 Future Rivers Advisory Committee (2020-present)
 
@@ -620,8 +595,6 @@ __Post-doctoral__
 \quad Daniel Pendleton (2010-2012, co-advised with EE Holmes)
 
 \quad Jim Thorson (2011, co-advised with EE Holmes & EJ Ward)
-
-\quad Kirstin Holsman (2007-2010)
 
 \quad Daniel Pendleton (2010-2012, co-advised with EE Holmes)
 
