@@ -41,7 +41,7 @@ knitr::opts_chunk$set(echo = TRUE)
 School of Aquatic and Fishery Sciences \hfill 206.543.5997 (tel)  
 University of Washington \hfill 206.221.6931 (fax)  
 PO Box 355020 \hfill scheuerl@uw.edu  
-Seattle, WA 98195-5020  \hfill https://fish.uw.edu/faculty/mark-scheuerell  
+Seattle, WA 98195-5020  \hfill https://faculty.washington.edu/scheuerl  
 
 
 # Education
@@ -405,10 +405,6 @@ Impacts of lakeshore residential development on the spatial distribution and ene
 \setlength{\parskip}{8pt}
 \noindent
 
-NOAA National Oceanographic Partnership Program ($199k) 2020-2022. Advancing sustainable shellfish aquaculture through machine learning and automated data collection on fish communities (Co-PI with Sanderson, Ferris)
-
-Pacific Salmon Commission Southern Boundary Restoration and Enhancement Fund ($104k) 2019-2020. Improving preseason forecasts for U.S. coho salmon management units by accounting for spatially structured temporal variation in age-at-maturity (Co-PI with Schindler, Zimmerman)
-
 North Pacific Research Board ($82k) 2017-2018. Retrospective analysis of long-term census data to identify factors affecting survival and life history strategies of coho salmon (Collaborator with Tallmon, Vulstek)
 
 NOAA Fisheries And The Environment (FATE) Program ($147k) 2015-2016. Improving salmon population forecasts by combining environmental drivers, variable age composition, and spatial structure into hierarchical models (PI with Thorson)
@@ -558,11 +554,27 @@ __Post-doctoral__
 
 \quad Eric Buhle (2007-2009)
 
+__Ph.D. students__
+
+\quad Caitlin Magel, Oregon St Univ (2018-2020, ad-hoc committee member)
+
+\quad Tessa Francis, Univ Washington (2004-2008, committee member)
+
 __M.S. students__
 
-\quad Kelly Mistry, Univ Washington (2020-present)
+\quad Kelly Mistry, Univ Washington (2020-present, chair)
 
-\quad Markus Min, Univ Washington (2020-present)
+\quad Markus Min, Univ Washington (2020-present, chair)
+
+\quad Casey Ralston, Univ Washington (2013-2014, committee member)
+
+\quad Pascale Goertler, Univ Washington (2011-2014, ad hoc committee member)
+
+\quad Megan Stachura, Univ Washington (2011-2013, ad-hoc committee member)
+
+\quad Jessica Beetz, Univ Washington (2007-2009, committee member)
+
+\quad Harry Rich, Univ Washington (2005-2006, ad-hoc committee member)
 
 __Undergraduate students__
 
