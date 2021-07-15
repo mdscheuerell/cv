@@ -116,9 +116,9 @@ Richard C. Snyder Award for Vertebrate Zoology Research, Department of Zoology, 
 
 \vspace{15pt}
 
-\Large __Publications__\footnote{Authors in italics were students or post-docs at the time the research was completed.}
+# Publications
 
-\normalsize
+Authors in italics were students or post-docs at the time the research was completed.
 
 \vspace{-10pt}
 
@@ -131,15 +131,15 @@ Richard C. Snyder Award for Vertebrate Zoology Research, Department of Zoology, 
 
 _Magel CL_, __Scheuerell MD__, Buhle ER, Lewis DJ, Weeber M, Hacker SD. In review. Estuary and upland habitats are equally important for the production of threatened Oregon Coast coho salmon populations
 
-_DeFilippo LB_, _Buehrens TW_, __Scheuerell MD__, Kendall NW, Schindler DE. In review. Improving short-term recruitment forecasts for coho salmon using a spatiotemporal integrated population model
-
 _Webster A_, Douglas T, Harms TK, Regier P, __Scheuerell MD__. In review. Multi-scale temporal patterns in stream biogeochemistry indicate linked permafrost and ecological dynamics of boreal catchments
-
-_McGowan DW_, Branch TA, Haught S, __Scheuerell MD__. In review. Multi-decadal shifts in the distribution and timing of Pacific herring (_Clupea pallasii_) spawning in Prince William Sound, Alaska
 
 Jankowski K, Houser JN, __Scheuerell MD__, Smits AP. In review. Warmer winters increase phytoplankton biomass in a large floodplain river
 
 [ _In press or published_ ]
+
+65\. _McGowan DW_, Branch TA, Haught S, __Scheuerell MD__. *In press*. Multi-decadal shifts in the distribution and timing of Pacific herring (_Clupea pallasii_) spawning in Prince William Sound, Alaska 
+
+64\. _DeFilippo LB_, _Buehrens TW_, __Scheuerell MD__, Kendall NW, Schindler DE. 2021. Improving short-term recruitment forecasts for coho salmon using a spatiotemporal integrated population model 242:106014
 
 63\. __Scheuerell MD__, Ruff CP, Anderson JH, Beamer EM. 2021. An integrated population model for estimating the relative effects of natural and anthropogenic factors on a threatened population of steelhead trout. Journal of Applied Ecology 58:114-124
 
