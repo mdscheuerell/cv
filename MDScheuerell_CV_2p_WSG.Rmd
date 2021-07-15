@@ -1,8 +1,9 @@
 ---
-output: pdf_document
-header-includes: \pagenumbering{gobble}
+output: 
+  pdf_document: 
+    keep_tex: true
 geometry: margin=1in
-urlcolor: black
+header-includes: \pagenumbering{gobble}
 ---
 
 ```{r setup, include=FALSE}
