@@ -133,9 +133,13 @@ _Magel CL_, __Scheuerell MD__, Buhle ER, Lewis DJ, Weeber M, Hacker SD. In revie
 
 [ _In press or published_ ]
 
+70\. Ward EJ, Marshall K, __Scheuerell MD__. 2022. Regularizing priors for Bayesian VAR applications to large ecological datasets. PeerJ 10:e14332
+
+69\. _Arnold L_, __Scheuerell MD__, Busch Isaksen T. 2022. Mortality associated with extreme heat in Washington State: the historical and projected public health burden. Atmosphere 13:1392
+
 68\. _Webster A_, Douglas T, Harms TK, Regier P, __Scheuerell MD__. 2022. Multi-scale temporal patterns in stream biogeochemistry indicate linked permafrost and ecological dynamics of boreal catchments. Ecosystems 25:1189–1206
 
-67\. _Arnold L_, __Scheuerell MD__, Busch Isaksen T. 2022. Mortality associated with extreme heat in Washington State: the historical and projected public health burden. Atmosphere 13:1392
+67\. Quinn TP, __Scheuerell MD__, Losee JP, Hanada D. 2022. Multidecadal trends in body size of Puget Sound Chinook salmon: Analysis of data from the Tengu Derby, a culturally unique fishery. Marine and Coastal Fisheries 14:e10205
 
 66\. Jankowski K, Houser JN, __Scheuerell MD__, Smits AP. 2021. Warmer winters increase phytoplankton biomass in a large floodplain river. Journal of Geophysical Research: Biogeosciences 126:e2020JG006135
 
@@ -330,13 +334,16 @@ Williams JG, Smith SG, Zabel RW, Muir WD, __Scheuerell MD__, Sandford BP, Marsh 
 \setlength{\parskip}{8pt}
 \noindent
 
-Holmes EE, Ward EJ, __Scheuerell MD__, Willis K. 2020. MARSS: Multivariate Autoregressive State-Space Modeling. R Package Version 3.10.12
+Ward EJ, Marshall KN, __Scheuerell MD__. 2012. `{varlasso}`: An R Package for Regularized Bayesian VAR and VARSS models. R Package Version 1.1.1
+https://doi.org/10.5281/zenodo.6857994
+
+Holmes EE, Ward EJ, __Scheuerell MD__, Willis K. 2020. `{MARSS}`: Multivariate Autoregressive State-Space Modeling. R Package Version 3.10.12
 https://cran.r-project.org/web/packages/MARSS/index.html
 
-Ward EJ, __Scheuerell MD__, Holmes EE. 2018. atsar: Applied Time Series Analysis in R: an introduction to time series analysis for ecological and fisheries data with Stan. R Package Version 1.0.1
+Ward EJ, __Scheuerell MD__, Holmes EE. 2018. `{atsar}`: Applied Time Series Analysis in R: An introduction to time series analysis for ecological and fisheries data with Stan. R Package Version 1.0.1
 https://doi.org/10.5281/zenodo.1158021
 
-__Scheuerell MD__. 2017. muti - An R package for computing mutual information. R Package Version 1.0.0
+__Scheuerell MD__. 2017. `{muti}`: An R package for computing mutual information. R Package Version 1.0.0
 https://doi.org/10.5281/zenodo.439391
 
 \setlength{\parindent}{0in}
@@ -500,7 +507,7 @@ _Behavioural Ecology\textperiodcentered Canadian Journal of Fisheries and Aquati
 \setlength{\parskip}{8pt}
 \noindent
 
-Member, U.S. Geological Survey Cooperative Research Units Diversity, Equity, and Inclusion Committee (2020-present)
+Member, U.S. Geological Survey Cooperative Research Units Diversity, Equity, and Inclusion Committee (2020-2022)
 
 Member, Analytic and Review Team, Bull Trout Status Assessment, U.S. Fish and Wildlife Service (2020-present)
 
@@ -537,22 +544,26 @@ College of the Environment, Academic Grievance Committee (2020-present)
 
 **School committees**
 
+School of Aquatic and Fishery Sciences, Coastal Ecologist Faculty Search Committee (2022-present)
+
+School of Aquatic and Fishery Sciences, Equity and Inclusion Committee (2021-present)
+
 School of Aquatic and Fishery Sciences, Students Exploring Aquatic Sciences (2020-present)
 
-School of Aquatic and Fishery Sciences, Curriculum Committee (2020-present)
+School of Aquatic and Fishery Sciences, Curriculum Committee (2020-2022)
 
 School of Aquatic and Fishery Sciences, Recruitment, Admission, and Scholarship Committee 
-(2019-2020)
+(2019-2020, 2021-2022)
 
-School of Environmental and Forestry Sciences, Human Dimensions of Wildlife Faculty Search Committee (2020-present)
+School of Environmental and Forestry Sciences, Human Dimensions of Wildlife Faculty Search Committee (2020-2021)
 
-Quantitative Ecology and Resource Management, Qualifying Exam Committee (2020)
+Quantitative Ecology and Resource Management, Qualifying Exam Committee (2020, 2022)
 
 **General service**
 
 Future Rivers Advisory Committee (2020-present)
 
-Fish and Wildlife Ecology Seminar Series, co-organizer (2020–present)
+Fish and Wildlife Ecology Seminar Series, co-organizer (2020–2021)
 
 Graduate School Academic Grievance Panel (2020)
 
@@ -569,19 +580,22 @@ Grant reviewer for Royalty Research Fund (2019, 2020)
 
 \setlength{\parskip}{8pt}
 
-_Introduction to Environmental Data Science_    
+_Best Practices in Environmental Data Science (FISH 549)_    
 Instructor, University of Washington \hfill 2021 - present  
 
-_Analysis of Ecological and Environmental Data_    
+_Analysis of Ecological and Environmental Data (QERM 514)_    
 Instructor, University of Washington \hfill 2020 - present  
 
-_Applied Time Series Analysis in Fisheries and Environmental Sciences_    
+_Applied Time Series Analysis in Fisheries and Environmental Sciences (FISH 550)_    
 Co-Instructor, University of Washington \hfill 2013 - present  
+
+_Proposal Writing and Professional Development for Graduate Students (FISH 521)_    
+Instructor, University of Washington \hfill 2022  
 
 _Applied Time Series Analyses for Ecologists_  
 Visiting Instructor, Stockholm University \hfill 2014  
 
-_Theory and Application of Stable Isotopes in Ecology_  
+_Theory and Application of Stable Isotopes in Ecology (FISH 509)_  
 Visiting Instructor, University of Washington \hfill 2005 - 2007
 
 _Limnology_; _Vertebrate Zoology_; _Comparative Vertebrate Anatomy_  
@@ -598,13 +612,11 @@ Teaching Assistant, University of Washington \hfill 1997 - 2000
 
 \setlength{\parskip}{6pt}
 
-__Post-doctoral__
+__Post-doctoral scholars__
+
+\quad Dara Farrell (2021-present)
 
 \quad Guillaume Bal (2012-2013, co-advised with EJ Ward)
-
-\quad Daniel Pendleton (2010-2012, co-advised with EE Holmes)
-
-\quad Jim Thorson (2011, co-advised with EE Holmes & EJ Ward)
 
 \quad Daniel Pendleton (2010-2012, co-advised with EE Holmes)
 
@@ -616,13 +628,21 @@ __Post-doctoral__
 
 __M.S. students__
 
-\quad Kelly Mistry, Univ Washington (2020-present)
+\quad Karl Veggerby (2021-present)
 
-\quad Markus Min, Univ Washington (2020-present)
+\quad Nicole Doran (2021-present)
+
+\quad Andrea Hennings (2021-present)
+
+\quad Markus Min (2020-present)
+
+\quad Kelly Mistry (2020-2022)
 
 __Undergraduate students__
 
-\quad Kerrianne McCarthy, Univ Washington (2019-2020, Undergraduate Capstone Program)
+\quad Jeremy Leung (Undergraduate Capstone Program, 2022-present)
+
+\quad Kerrianne McCarthy (Undergraduate Capstone Program, 2019-2020)
 
 \quad Christina Murphy, Oregon St Univ (2007, NOAA Ernest F. Hollings Undergraduate Scholarship Program)
 
