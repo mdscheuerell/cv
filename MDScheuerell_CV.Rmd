@@ -55,7 +55,7 @@ M.S., Fishery and Aquatic Science, Cornell University (1995)
 B.S., Zoology, University of Wisconsin (1991) 
 
 
-# Professional experience
+# Professional appointments
 
 \vspace{-5pt}
 
@@ -64,6 +64,9 @@ USGS Washington Cooperative Fish and Wildlife Research Unit \hfill 2019 - presen
 
 _Associate Professor_  
 School of Aquatic and Fishery Sciences, University of Washington \hfill 2019 - present  
+
+_Graduate Faculty_  
+Quantitative Ecology and Resource Management, University of Washington \hfill 2019 - present  
 
 _Affiliate Scientist_  
 eScience Institute, University of Washington \hfill 2021 - present  
@@ -121,9 +124,7 @@ Richard C. Snyder Award for Vertebrate Zoology Research, Department of Zoology, 
 
 # Publications
 
-Authors in italics were students or post-docs at the time the research was completed.
-
-\vspace{-10pt}
+Authors in italics were students or post-docs at the time the research was completed.  
 
 \setlength{\parindent}{-0.375in}
 \setlength{\leftskip}{0.375in}
@@ -282,7 +283,7 @@ _Magel CL_, __Scheuerell MD__, Buhle ER, Lewis DJ, Weeber M, Hacker SD. In revie
 
 # Book chapters 
 
-\vspace{-20pt}
+\vspace{-15pt}
 
 \setlength{\parindent}{-0.375in}
 \setlength{\leftskip}{0.375in}
@@ -302,7 +303,7 @@ Dini ML, Soranno PA, __Scheuerell MD__, Carpenter SR. 1993. Effects of predators
 
 # Other publications 
 
-\vspace{-20pt}
+\vspace{-15pt}
 
 \setlength{\parindent}{-0.375in}
 \setlength{\leftskip}{0.375in}
@@ -330,7 +331,7 @@ Williams JG, Smith SG, Zabel RW, Muir WD, __Scheuerell MD__, Sandford BP, Marsh 
 
 # Technical products 
 
-\vspace{-20pt}
+\vspace{-15pt}
 
 \setlength{\parindent}{-0.375in}
 \setlength{\leftskip}{0.375in}
@@ -356,7 +357,7 @@ https://doi.org/10.5281/zenodo.439391
 
 # Invited presentations 
 
-\vspace{-20pt}
+\vspace{-15pt}
 
 \setlength{\parindent}{-0.375in}
 \setlength{\leftskip}{0.375in}
@@ -410,7 +411,7 @@ Impacts of lakeshore residential development on the spatial distribution and ene
 
 # External support 
 
-\vspace{-20pt}
+\vspace{-15pt}
 
 \setlength{\parindent}{-0.375in}
 \setlength{\leftskip}{0.375in}
@@ -427,9 +428,9 @@ US Fish and Wildlife Service ($145k) 2021-2023. Evaluating the relative effects 
 
 NOAA Fisheries ($135k) 2020-2023. Habitat function of shellfish aquaculture ecosystems: developing new technology to understand species use of nearshore habitats. (sole PI)
 
-NOAA National Oceanographic Partnership Program ($199k) 2020-2023. Advancing sustainable shellfish aquaculture through machine learning and automated data collection on fish communities (Co-PI with Sanderson, Ferris)
+NOAA National Oceanographic Partnership Program ($199k) 2020-2023. Advancing sustainable shellfish aquaculture through machine learning and automated data collection on fish communities (co-PI with Sanderson, Ferris)
 
-Pacific Salmon Commission Southern Boundary Restoration and Enhancement Fund ($104k) 2019-2020. Improving preseason forecasts for U.S. coho salmon management units by accounting for spatially structured temporal variation in age-at-maturity (Co-PI with Schindler, Zimmerman)
+Pacific Salmon Commission Southern Boundary Restoration and Enhancement Fund ($104k) 2019-2020. Improving preseason forecasts for U.S. coho salmon management units by accounting for spatially structured temporal variation in age-at-maturity (co-PI with Schindler, Zimmerman)
 
 North Pacific Research Board ($82k) 2017-2018. Retrospective analysis of long-term census data to identify factors affecting survival and life history strategies of coho salmon (Collaborator with Tallmon, Vulstek)
 
@@ -505,7 +506,7 @@ _Behavioural Ecology\textperiodcentered Canadian Journal of Fisheries and Aquati
 
 # National & International service 
 
-\vspace{-20pt}
+\vspace{-15pt}
 
 \setlength{\parindent}{-0.375in}
 \setlength{\leftskip}{0.375in}
@@ -514,7 +515,7 @@ _Behavioural Ecology\textperiodcentered Canadian Journal of Fisheries and Aquati
 
 Member, U.S. Geological Survey Cooperative Research Units Diversity, Equity, and Inclusion Committee (2020-2022)
 
-Member, Analytic and Review Team, Bull Trout Status Assessment, U.S. Fish and Wildlife Service (2020-present)
+Member, Analytic and Review Team, Bull Trout Status Assessment, U.S. Fish and Wildlife Service (2020-2022)
 
 Mentor, EcologyPlus Program from NSF INCLUDES (Inclusion across the Nation of Communities of Learners of Underrepresented Discoverers in Engineering and Science) (2018-2019)
 
@@ -644,6 +645,10 @@ __M.S. students__
 \quad Kelly Mistry (2020-2022)
 
 __Undergraduate students__
+
+\quad Emily Sheppard (Undergraduate Capstone Program, 2022-present)
+
+\quad Amy Velasco (Undergraduate Capstone Program, 2022-present)
 
 \quad Jeremy Leung (Undergraduate Capstone Program, 2022-present)
 
