@@ -65,6 +65,9 @@ USGS Washington Cooperative Fish and Wildlife Research Unit \hfill 2019 - presen
 _Associate Professor_  
 School of Aquatic and Fishery Sciences, University of Washington \hfill 2019 - present  
 
+_Affiliate Scientist_  
+eScience Institute, University of Washington \hfill 2021 - present  
+
 _Research Fisheries Biologist_  
 Northwest Fisheries Science Center, NOAA Fisheries \hfill 2003 - 2019  
 
@@ -417,6 +420,8 @@ Impacts of lakeshore residential development on the spatial distribution and ene
 US National Park Service ($202k) 2022-2025. Estimating the natural range of abundance of pink salmon in the Indian River, Sitka National Historical Park. (sole PI)
 
 Washington Department of Fish and Wildlife ($100k) 2022-2023. Toxics in mussels monitoring program design. (sole PI)
+
+Washington Sea Grant ($597k) 2021-2023. Maximizing returns on investing in barrier culvert removal in Washington State. (co-PI with Jardine, Holland, Fonner, Van Deynze)
 
 US Fish and Wildlife Service ($145k) 2021-2023. Evaluating the relative effects of top-down and bottom-up factors on declines in Lake Sammamish kokanee salmon. (sole PI)
 
