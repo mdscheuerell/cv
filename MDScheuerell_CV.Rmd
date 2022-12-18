@@ -338,7 +338,7 @@ Williams JG, Smith SG, Zabel RW, Muir WD, __Scheuerell MD__, Sandford BP, Marsh 
 \setlength{\parskip}{8pt}
 \noindent
 
-Ward EJ, Marshall KN, __Scheuerell MD__. 2012. `{varlasso}`: An R Package for Regularized Bayesian VAR and VARSS models. R Package Version 1.1.1
+Ward EJ, Marshall KN, __Scheuerell MD__. 2022. `{varlasso}`: An R Package for Regularized Bayesian VAR and VARSS models. R Package Version 1.1.1
 https://doi.org/10.5281/zenodo.6857994
 
 Holmes EE, Ward EJ, __Scheuerell MD__, Willis K. 2020. `{MARSS}`: Multivariate Autoregressive State-Space Modeling. R Package Version 3.10.12
@@ -601,7 +601,7 @@ Instructor, University of Washington \hfill 2022
 _Applied Time Series Analyses for Ecologists_  
 Visiting Instructor, Stockholm University \hfill 2014  
 
-_Theory and Application of Stable Isotopes in Ecology (FISH 509)_  
+_Theory and Application of Stable Isotopes in Ecology (FISH 507)_  
 Visiting Instructor, University of Washington \hfill 2005 - 2007
 
 _Limnology_; _Vertebrate Zoology_; _Comparative Vertebrate Anatomy_  
@@ -654,6 +654,6 @@ __Undergraduate students__
 
 \quad Kerrianne McCarthy (Undergraduate Capstone Program, 2019-2020)
 
-\quad Christina Murphy, Oregon St Univ (2007, NOAA Ernest F. Hollings Undergraduate Scholarship Program)
+\quad Christina Murphy (NOAA Ernest F. Hollings Undergraduate Scholar, 2007)
 
 \setlength{\parskip}{0pt}
