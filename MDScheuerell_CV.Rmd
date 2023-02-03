@@ -420,9 +420,9 @@ Impacts of lakeshore residential development on the spatial distribution and ene
 
 US National Park Service ($202k) 2022-2025. Estimating the natural range of abundance of pink salmon in the Indian River, Sitka National Historical Park. (sole PI)
 
-Washington Department of Fish and Wildlife ($100k) 2022-2023. Toxics in mussels monitoring program design. (sole PI)
+Washington Sea Grant ($255k) 2022-2024. Maximizing returns on investing in barrier culvert removal in Washington State. (Co-PI with Jardine, Van Deynze, Holland, Fonner)
 
-Washington Sea Grant ($597k) 2021-2023. Maximizing returns on investing in barrier culvert removal in Washington State. (co-PI with Jardine, Holland, Fonner, Van Deynze)
+Washington Department of Fish and Wildlife ($100k) 2022-2023. Toxics in mussels monitoring program design. (sole PI)
 
 US Fish and Wildlife Service ($145k) 2021-2023. Evaluating the relative effects of top-down and bottom-up factors on declines in Lake Sammamish kokanee salmon. (sole PI)
 
@@ -556,14 +556,14 @@ School of Aquatic and Fishery Sciences, Equity and Inclusion Committee (2021-pre
 
 School of Aquatic and Fishery Sciences, Students Exploring Aquatic Sciences (2020-present)
 
+Quantitative Ecology and Resource Management, Qualifying Exam Committee (2020-present)
+
 School of Aquatic and Fishery Sciences, Curriculum Committee (2020-2022)
 
 School of Aquatic and Fishery Sciences, Recruitment, Admission, and Scholarship Committee 
 (2019-2020, 2021-2022)
 
 School of Environmental and Forestry Sciences, Human Dimensions of Wildlife Faculty Search Committee (2020-2021)
-
-Quantitative Ecology and Resource Management, Qualifying Exam Committee (2020, 2022)
 
 **General service**
 
@@ -618,7 +618,7 @@ Teaching Assistant, University of Washington \hfill 1997 - 2000
 
 \setlength{\parskip}{6pt}
 
-__Post-doctoral scholars__
+__Postdoctoral scholars__
 
 \quad Dara Farrell (2021-present)
 
