@@ -140,6 +140,12 @@ _Magel CL_, __Scheuerell MD__, Buhle ER, Lewis DJ, Weeber M, Hacker SD. In revie
 
 [ _In press or published_ ]
 
+73\. _Min, MA_, Cope, J, Lowry D, Selleck J, Tonnes D, Andrews K, Pacunski R, _Hennings A_, __Scheuerell MD__. 2023. Data-limited fishery assessment methods shed light on the exploitation history and population dynamics of Endangered Species Act-listed Yelloweye Rockfish in Puget Sound, Washington. Marine and Coastal Fisheries 15:
+
+72\. Jaeger WK, __Scheuerell MD__. 2023. Return (s) on investment: Restoration spending in the Columbia River Basin and increased abundance of salmon and steelhead. PLOS One 18:e0289246
+
+71\. _Sorel MH_, Murdoch AR, Zabel RW, Kamphaus CM, Buhle ER, __Scheuerell MD__, Converse SR. 2023. Effects of population density and environmental conditions on life‐history prevalence in a migratory fish. 2023. Ecology and Evolution 13:e10087
+
 70\. Ward EJ, Marshall K, __Scheuerell MD__. 2022. Regularizing priors for Bayesian VAR applications to large ecological datasets. PeerJ 10:e14332
 
 69\. _Arnold L_, __Scheuerell MD__, Busch Isaksen T. 2022. Mortality associated with extreme heat in Washington State: the historical and projected public health burden. Atmosphere 13:1392
@@ -643,21 +649,29 @@ __Ph.D. students__
 
 __M.S. students__
 
-\quad Karl Veggerby (2021-present)
+\quad Amirah Casey (2023-present)
+
+\quad Tessa Code (2023-present)
 
 \quad Nicole Doran (2021-present)
 
 \quad Andrea Hennings (2021-present)
 
+\quad Karl Veggerby (2021-2023)
+
 \quad Kelly Mistry (2020-2022)
 
 __Undergraduate students__
 
-\quad Emily Sheppard (Undergraduate Capstone Program, 2022-present)
+\quad Olivia Anderson (IBIS Undergraduate, 2023)
 
-\quad Amy Velasco (Undergraduate Capstone Program, 2022-present)
+\quad Sarah Hensley (IBIS Undergraduate, 2023)
 
-\quad Jeremy Leung (Undergraduate Capstone Program, 2022-present)
+\quad Emily Sheppard (Undergraduate Capstone Program, 2022-2023)
+
+\quad Amy Velasco (Undergraduate Capstone Program, 2022-2023)
+
+\quad Jeremy Leung (Undergraduate Capstone Program, 2022)
 
 \quad Kerrianne McCarthy (Undergraduate Capstone Program, 2019-2020)
 
