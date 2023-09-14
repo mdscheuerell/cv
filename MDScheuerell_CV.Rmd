@@ -140,6 +140,14 @@ _Magel CL_, __Scheuerell MD__, Buhle ER, Lewis DJ, Weeber M, Hacker SD. In revie
 
 [ _In press or published_ ]
 
+74\. _Sorel MH_, Jorgensen J, Zabel RW, __Scheuerell MD__, Murdoch AR, Kamphaus CM, Converse SJ. In press. Incorporating life history diversity in an integrated population model to inform viability analysis. Canadian Journal of Fisheries and Aquatic Sciences
+
+73\. _Min MA_, Cope J, Lowry D, Selleck J, Tonnes D, Andrews K, Pacunski R, _Hennings A_, __Scheuerell MD__. 2023. Data‐limited fishery assessment methods shed light on the exploitation history and population dynamics of Endangered Species Act‐listed Yelloweye Rockfish in Puget Sound, Washington. Marine and Coastal Fisheries 15:e10251
+
+72\. Jaeger WK, __Scheuerell MD__. 2023. Return(s) on investment: Restoration spending in the Columbia River Basin and increased abundance of salmon and steelhead. PLOS ONE 18:e0289246
+
+71\. _Sorel MH_, Murdoch AR, Zabel RW, Kamphaus CM, Buhle ER, __Scheuerell MD__, Converse SJ. 2023. Effects of population density and environmental conditions on life‐history prevalence in a migratory fish. 2023. Ecology and Evolution 13:e10087
+
 70\. Ward EJ, Marshall K, __Scheuerell MD__. 2022. Regularizing priors for Bayesian VAR applications to large ecological datasets. PeerJ 10:e14332
 
 69\. _Arnold L_, __Scheuerell MD__, Busch Isaksen T. 2022. Mortality associated with extreme heat in Washington State: the historical and projected public health burden. Atmosphere 13:1392
@@ -174,7 +182,7 @@ _Magel CL_, __Scheuerell MD__, Buhle ER, Lewis DJ, Weeber M, Hacker SD. In revie
 
 54\. _Honea JM_, McClure MM, Jorgensen JC, __Scheuerell MD__. 2016. Assessing the vulnerability of freshwater life stages of Chinook salmon to climate change. Climate Research 71:127-137
 
-53\. _Goertler PAL_, __Scheuerell MD__, Simenstad CA, Bottom DL. 2016. Estimating common growth patterns in juvenile Chinook salmon (Oncorhynchus tshawytscha) from diverse genetic stocks and a large spatial extent. PLoS ONE 11:e0162121
+53\. _Goertler PAL_, __Scheuerell MD__, Simenstad CA, Bottom DL. 2016. Estimating common growth patterns in juvenile Chinook salmon (Oncorhynchus tshawytscha) from diverse genetic stocks and a large spatial extent. PLOS ONE 11:e0162121
 
 52\. \footnote{All junior authors listed in alphabetical order.}Thorson JT, Ianelli JN, Larsen EA, Ries L __Scheuerell MD__, Szuwalski CS, Zipkin EF. 2016. Joint dynamic species distribution models: a tool for community ordination and spatiotemporal monitoring. Global Ecology and Biogeography 25:1144–1158
 
@@ -192,7 +200,7 @@ _Magel CL_, __Scheuerell MD__, Buhle ER, Lewis DJ, Weeber M, Hacker SD. In revie
 
 45\. Thorson JT, __Scheuerell MD__, Semmens BX, Pattengill-Semmens C. 2014. Demographic modeling of citizen science data informs habitat preferences and population dynamics of recovering fishes. Ecology 95:3251-3258
 
-44\. _Francis TB_, _Wolkovich EM_, __Scheuerell MD__, Katz SL, Holmes EE, Hampton SE. 2014. Shifting regimes and changing interactions in the Lake Washington, U.S.A., plankton community from 1962–1994. PLoS ONE 9(10):e110363
+44\. _Francis TB_, _Wolkovich EM_, __Scheuerell MD__, Katz SL, Holmes EE, Hampton SE. 2014. Shifting regimes and changing interactions in the Lake Washington, U.S.A., plankton community from 1962–1994. PLOS ONE 9(10):e110363
 
 43\. _Griffiths JR_, Schindler DE, _Armstrong JB_, __Scheuerell MD__, Whited DC, Clarke RA, Hilborn R, Holt CA, Lindley ST, Stanford JA, Volk EC. 2014. Performance of salmon fishery portfolios across western North America. Journal of Applied Ecology 51:1554–1563
 
@@ -500,7 +508,7 @@ Manuscript reviewer for
 
 \setlength{\leftskip}{0.375in}
 
-_Behavioural Ecology\textperiodcentered Canadian Journal of Fisheries and Aquatic Sciences\textperiodcentered Canadian Journal of Zoology\textperiodcentered Conservation Biology\textperiodcentered Ecography\textperiodcentered Ecological Applications\textperiodcentered Ecological Modelling\textperiodcentered Ecology\textperiodcentered Ecology and Society\textperiodcentered Ecology Letters\textperiodcentered Ecosphere\textperiodcentered Ecosystems\textperiodcentered Environmental Biology of Fishes\textperiodcentered Fisheries Oceanography\textperiodcentered Freshwater Biology\textperiodcentered Frontiers in Ecology and the Environment\textperiodcentered Global Change Biology\textperiodcentered Journal of Animal Ecology\textperiodcentered Journal of Applied Ecology\textperiodcentered Journal of Bioeconomics\textperiodcentered Limnology and Oceanography\textperiodcentered North American Journal of Fisheries Management\textperiodcentered Oecologia\textperiodcentered Oikos\textperiodcentered PLoS Biology\textperiodcentered PLoS ONE\textperiodcentered Proceedings of the National Academy of Sciences\textperiodcentered  Transactions of the American Fisheries Society\textperiodcentered  Trends in Ecology and Evolution_
+_Behavioural Ecology\textperiodcentered Canadian Journal of Fisheries and Aquatic Sciences\textperiodcentered Canadian Journal of Zoology\textperiodcentered Conservation Biology\textperiodcentered Ecography\textperiodcentered Ecological Applications\textperiodcentered Ecological Modelling\textperiodcentered Ecology\textperiodcentered Ecology and Society\textperiodcentered Ecology Letters\textperiodcentered Ecosphere\textperiodcentered Ecosystems\textperiodcentered Environmental Biology of Fishes\textperiodcentered Fisheries Oceanography\textperiodcentered Freshwater Biology\textperiodcentered Frontiers in Ecology and the Environment\textperiodcentered Global Change Biology\textperiodcentered Journal of Animal Ecology\textperiodcentered Journal of Applied Ecology\textperiodcentered Journal of Bioeconomics\textperiodcentered Limnology and Oceanography\textperiodcentered North American Journal of Fisheries Management\textperiodcentered Oecologia\textperiodcentered Oikos\textperiodcentered PLOS Biology\textperiodcentered PLOS ONE\textperiodcentered Proceedings of the National Academy of Sciences\textperiodcentered  Transactions of the American Fisheries Society\textperiodcentered  Trends in Ecology and Evolution_
 
 \setlength{\leftskip}{0in}
 
