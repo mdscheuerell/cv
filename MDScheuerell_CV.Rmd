@@ -136,9 +136,9 @@ Authors in italics were students or post-docs at the time the research was compl
 
 [ _In review_ ] 
 
-_Veggerby K_, Wood CL, Quinn TP, **Scheuerell MD**. In review. Climate-associated changes in the abundance of shrimp in Puget Sound, USA. North American Journal of Fisheries Management
+_Veggerby KB_, Wood CL, Quinn TP, **Scheuerell MD**. In review. Climate-associated changes in the abundance of shrimp in Puget Sound, USA. North American Journal of Fisheries Management
 
-_Veggerby K_, **Scheuerell MD**, Sanderson B, Kiffney P, Ferriss B. In review. Shellfish aquaculture farms as foraging habitat for nearshore fishes and crabs. Marine and Coastal Fisheries
+_Veggerby KB_, **Scheuerell MD**, Sanderson BL, Kiffney PM, Ferriss B. In review. Shellfish aquaculture farms as foraging habitat for nearshore fishes and crabs. Marine and Coastal Fisheries
 
 _Elmstrom EJ_, Holtgrieve GW, **Scheuerell MD**, Schauer AJ, Leazer K. In review. Climate and landform interact to control the source and transport of nitrate in Pacific Northwest rivers. Journal of Geophysical Research - Biogeosciences
 
@@ -673,9 +673,15 @@ __M.S. students__
 
 __Undergraduate students__
 
-\quad Olivia Anderson (IBIS Undergraduate, 2023)
+\quad Callie Murakami (Undergraduate researcher, 2024)
 
-\quad Sarah Hensley (IBIS Undergraduate, 2023)
+\quad Quynhnhu Nguyen (Undergraduate Capstone Program, 2024)
+
+\quad Kiley Foster (Undergraduate Capstone Program, 2024)
+
+\quad Sarah Hensley (IBIS Undergraduate, 2023; Undergraduate researcher, 2024)
+
+\quad Olivia Anderson (IBIS Undergraduate, 2023)
 
 \quad Emily Sheppard (Undergraduate Capstone Program, 2022-2023)
 
