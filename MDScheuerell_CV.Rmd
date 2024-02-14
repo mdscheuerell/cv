@@ -136,15 +136,13 @@ Authors in italics were students or post-docs at the time the research was compl
 
 [ _In review_ ] 
 
-_Veggerby KB_, Wood CL, Quinn TP, **Scheuerell MD**. In review. Climate-associated changes in the abundance of shrimp in Puget Sound, USA. North American Journal of Fisheries Management
+_Veggerby KB_, Wood CL, Quinn TP, **Scheuerell MD**. Climate-associated changes in the abundance of shrimp in Puget Sound, USA. North American Journal of Fisheries Management
 
-_Veggerby KB_, **Scheuerell MD**, Sanderson BL, Kiffney PM, Ferriss B. In review. Shellfish aquaculture farms as foraging habitat for nearshore fishes and crabs. Marine and Coastal Fisheries
-
-_Elmstrom EJ_, Holtgrieve GW, **Scheuerell MD**, Schauer AJ, Leazer K. In review. Climate and landform interact to control the source and transport of nitrate in Pacific Northwest rivers. Journal of Geophysical Research - Biogeosciences
-
-_Magel CL_, __Scheuerell MD__, Buhle ER, Lewis DJ, Weeber M, Hacker SD. In review. Estuary and upland habitats are equally important for the production of threatened Oregon Coast coho salmon populations.
+_Elmstrom EJ_, Holtgrieve GW, **Scheuerell MD**, Schauer AJ, Leazer K. Climate and landform interact to control the source and transport of nitrate in Pacific Northwest rivers. Journal of Geophysical Research - Biogeosciences
 
 [ _In press or published_ ]
+
+76\. _Veggerby KB_, **Scheuerell MD**, Sanderson BL, Kiffney PM, Ferriss B. 2024. Shellfish aquaculture farms as foraging habitat for nearshore fishes and crabs. Marine and Coastal Fisheries. In press
 
 75\. _Sorel MH_, Jorgensen J, Zabel RW, __Scheuerell MD__, Murdoch AR, Kamphaus CM, Converse SJ. 2024. Incorporating life history diversity in an integrated population model to inform viability analysis. Canadian Journal of Fisheries and Aquatic Sciences. In press
 
@@ -152,7 +150,7 @@ _Magel CL_, __Scheuerell MD__, Buhle ER, Lewis DJ, Weeber M, Hacker SD. In revie
 
 73\. _Min MA_, Cope J, Lowry D, Selleck J, Tonnes D, Andrews K, Pacunski R, _Hennings A_, __Scheuerell MD__. 2023. Data‐limited fishery assessment methods shed light on the exploitation history and population dynamics of Endangered Species Act‐listed Yelloweye Rockfish in Puget Sound, Washington. Marine and Coastal Fisheries 15:e10251
 
-72\. Jaeger WK, __Scheuerell MD__. 2023. Return(s) on investment: Restoration spending in the Columbia River Basin and increased abundance of salmon and steelhead. PLOS ONE 18:e0289246
+72\. \footnote{Both authors contributed equally to this work.}Jaeger WK, __Scheuerell MD__. 2023. Return(s) on investment: Restoration spending in the Columbia River Basin and increased abundance of salmon and steelhead. PLOS ONE 18:e0289246
 
 71\. _Sorel MH_, Murdoch AR, Zabel RW, Kamphaus CM, Buhle ER, __Scheuerell MD__, Converse SJ. 2023. Effects of population density and environmental conditions on life‐history prevalence in a migratory fish. 2023. Ecology and Evolution 13:e10087
 
@@ -567,22 +565,26 @@ Member, Biological Review Team, National Marine Fisheries Service Risk Assessmen
 
 College of the Environment, Academic Grievance Committee (2020-present)
 
+Quantitative Ecology and Resource Management, Qualifying Exam Committee (2020-present)
+
+Center for Quantitative Sciences, Teaching Faculty Search Committee (2023-2024)
+
+School of Environmental and Forestry Sciences, Human Dimensions of Wildlife Faculty Search Committee (2020-2021)
+
 **School committees**
 
-School of Aquatic and Fishery Sciences, Coastal Ecologist Faculty Search Committee (2022-present)
+School of Aquatic and Fishery Sciences, School Council (2023-present)
 
 School of Aquatic and Fishery Sciences, Equity and Inclusion Committee (2021-present)
 
 School of Aquatic and Fishery Sciences, Students Exploring Aquatic Sciences (2020-present)
 
-Quantitative Ecology and Resource Management, Qualifying Exam Committee (2020-present)
+School of Aquatic and Fishery Sciences, Coastal Ecologist Faculty Search Committee (2022-2023)
 
 School of Aquatic and Fishery Sciences, Curriculum Committee (2020-2022)
 
 School of Aquatic and Fishery Sciences, Recruitment, Admission, and Scholarship Committee 
 (2019-2020, 2021-2022)
-
-School of Environmental and Forestry Sciences, Human Dimensions of Wildlife Faculty Search Committee (2020-2021)
 
 **General service**
 
@@ -605,6 +607,9 @@ Grant reviewer for Royalty Research Fund (2019, 2020)
 
 \setlength{\parskip}{8pt}
 
+_Proposal Writing and Professional Development for Graduate Students (FISH 521)_    
+Instructor, University of Washington \hfill 2022 - present  
+
 _Best Practices in Environmental Data Science (FISH 549)_    
 Instructor, University of Washington \hfill 2021 - present  
 
@@ -614,8 +619,8 @@ Instructor, University of Washington \hfill 2020 - present
 _Applied Time Series Analysis in Fisheries and Environmental Sciences (FISH 550)_    
 Co-Instructor, University of Washington \hfill 2013 - present  
 
-_Proposal Writing and Professional Development for Graduate Students (FISH 521)_    
-Instructor, University of Washington \hfill 2022  
+_Introduction to Time Series Analysis (SOE 592)_
+Instructor, Washington State University \hfill 2024  
 
 _Applied Time Series Analyses for Ecologists_  
 Visiting Instructor, Stockholm University \hfill 2014  
@@ -627,8 +632,6 @@ _Limnology_; _Vertebrate Zoology_; _Comparative Vertebrate Anatomy_
 Teaching Assistant, University of Washington \hfill 1997 - 2000
 
 \setlength{\parskip}{0pt}
-
-
 
 
 # Trainees
