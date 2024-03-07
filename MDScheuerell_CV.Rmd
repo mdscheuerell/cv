@@ -381,6 +381,10 @@ https://doi.org/10.5281/zenodo.439391
 \setlength{\parskip}{8pt}
 \noindent
 
+Large-scale status assessments of at-risk species and efforts to recovery them. Upper Columbia Salmon Recovery Conference, January 25, 2024, Wenatchee, Washington
+
+Examining long-term trends in the size and abundance of at-risk salmonids in the Pacific Northwest. School of Aquatic and Fishery Sciences, University of Washington, October 21, 2021, Seattle, Washington
+
 Quantitative approaches for improved management and conservation of aquatic resources. School of Aquatic and Fishery Sciences, University of Washington, February 7, 2019, Seattle, Washington
 
 Improved understanding of fisheries and ecosystems from noisy and disparate data. College of Fisheries and Ocean Sciences, University of Alaska Fairbanks, September 26, 2018, Fairbanks, Alaska
