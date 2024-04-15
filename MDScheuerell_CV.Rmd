@@ -136,6 +136,10 @@ Authors in italics were students or post-docs at the time the research was compl
 
 [ _In review_ ] 
 
+Harms TK, Hood J, **Scheuerell MD**, Creed I, Campbell JL, Fernandez I, Higgins SN, Johnson S, Shanley J, Sebestyen S, Webster KL, Yao H. Decomposing temporal variation in chemistry of headwater streams reveals long-term stability and recovery in the northern temperate zone. Ecology
+
+Jardine SL, Blair L, Burch C, Cooke A, Fonner R, Holland D, Kahn J, Lewis-Smith C, Rogers L, **Scheuerell MD**, Van Deynze B. What can fish passage restoration heuristics deliver? Proceedings of the National Academy of Sciences
+
 _Veggerby KB_, Wood CL, Quinn TP, **Scheuerell MD**. Climate-associated changes in the abundance of shrimp in Puget Sound, USA. North American Journal of Fisheries Management
 
 [ _In press or published_ ]
@@ -623,7 +627,7 @@ Instructor, University of Washington \hfill 2020 - present
 _Applied Time Series Analysis in Fisheries and Environmental Sciences (FISH 550)_    
 Co-Instructor, University of Washington \hfill 2013 - present  
 
-_Introduction to Time Series Analysis (SOE 592)_
+_Introduction to Time Series Analysis (SOE 592)_  
 Instructor, Washington State University \hfill 2024  
 
 _Applied Time Series Analyses for Ecologists_  
@@ -670,9 +674,9 @@ __M.S. students__
 
 \quad Tessa Code (2023-present)
 
-\quad Nicole Doran (2021-present)
-
 \quad Andrea Hennings (2021-present)
+
+\quad Nicole Doran (2021-2024)
 
 \quad Karl Veggerby (2021-2023)
 
