@@ -59,6 +59,9 @@ B.S., Zoology, University of Wisconsin (1991)
 
 \vspace{-5pt}
 
+_H. Mason Keeler Endowed Professor in Sport Fisheries Management_  
+School of Aquatic and Fishery Sciences, University of Washington \hfill 2024 - present
+
 _Assistant Unit Leader - Fish_  
 USGS Washington Cooperative Fish and Wildlife Research Unit \hfill 2019 - present
 
@@ -109,6 +112,8 @@ Electric Power Research Institute Fellowship in Fish Population Biology (1994)
 \setlength{\parskip}{8pt}
 \noindent
 
+Excellence in Diversity, Equity and Inclusion, U.S. Geological Survey Cooperative Units Program (2024)
+
 Presidential Early Career Award for Scientists and Engineers, White House Office of Science and Technology Policy, Washington, District of Columbia (2006)
 
 Best Student Presentation, American Fisheries Society, Alaska Chapter Annual Meeting, Girdwood, Alaska  (2002)  
@@ -136,15 +141,19 @@ Authors in italics were students or post-docs at the time the research was compl
 
 [ _In review_ ] 
 
-Harms TK, Hood J, **Scheuerell MD**, Creed I, Campbell JL, Fernandez I, Higgins SN, Johnson S, Shanley J, Sebestyen S, Webster KL, Yao H. Decomposing temporal variation in chemistry of headwater streams reveals long-term stability and recovery in the northern temperate zone. Ecology
+_Kuruvilla M_, Quinn TP, Anderson JH, **Scheuerell MD**, Miller EM, Berger AG, Okasaki C, McMillan JR, Pess GR, Westley PAH, Berdahl AM. Social influences complement environmental cues to stimulate migrating juvenile salmon. Movement Ecology
 
-Jardine SL, Blair L, Burch C, Cooke A, Fonner R, Holland D, Kahn J, Lewis-Smith C, Rogers L, **Scheuerell MD**, Van Deynze B. What can fish passage restoration heuristics deliver? Proceedings of the National Academy of Sciences
+Ohlberger J, Buhle ER, Buehrens TW, Kendall NW, Harbison T, Claiborn AM, Losee JP, Whitney J, **Scheuerell MD**. Declining marine survival of steelhead trout linked to climate and ecosystem change. Fish and Fisheries
 
-_Veggerby KB_, Wood CL, Quinn TP, **Scheuerell MD**. Climate-associated changes in the abundance of shrimp in Puget Sound, USA. North American Journal of Fisheries Management
+Harms TK, Hood J, **Scheuerell MD**, Creed I, Campbell JL, Fernandez I, Higgins SN, Johnson S, Shanley J, Sebestyen S, Webster KL, Yao H. Decomposing temporal variation in chemistry of headwater streams reveals long-term stability and recovery in the northern temperate zone. Biogeochemistry
+
+Jardine SL, Blair L, Burch C, Cooke A, Fonner R, Holland D, Kahn J, Lewis-Smith C, Rogers L, **Scheuerell MD**, Van Deynze B. What can fish passage restoration heuristics deliver? Conservation Letters
+
+_Veggerby KB_, Wood CL, Quinn TP, **Scheuerell MD**. Climate-associated changes in the abundance of shrimp in Puget Sound, USA. Transactions of the American Fisheries Society
 
 [ _In press or published_ ]
 
-77\. _Sorel MH_, Jorgensen J, Zabel RW, __Scheuerell MD__, Murdoch AR, Kamphaus CM, Converse SJ. 2024. Incorporating life history diversity in an integrated population model to inform viability analysis. Canadian Journal of Fisheries and Aquatic Sciences. In press
+77\. _Sorel MH_, Jorgensen J, Zabel RW, __Scheuerell MD__, Murdoch AR, Kamphaus CM, Converse SJ. 2024. Incorporating life history diversity in an integrated population model to inform viability analysis. Canadian Journal of Fisheries and Aquatic Sciences. 81:535-548
 
 76\. _Veggerby KB_, **Scheuerell MD**, Sanderson BL, Kiffney PM, Ferriss B. 2024. Shellfish aquaculture farms as foraging habitat for nearshore fishes and crabs. Marine and Coastal Fisheries. 16:e10282
 
@@ -331,6 +340,8 @@ Dini ML, Soranno PA, __Scheuerell MD__, Carpenter SR. 1993. Effects of predators
 \setlength{\parskip}{8pt}
 \noindent
 
+Holmes EE, __Scheuerell MD__, Ward EJ. 2023. Analysis of multivariate time-series using the MARSS package, Version 3.11.7. [http://cran.r-project.org/web/packages/MARSS/vignettes/UserGuide.pdf](http://cran.r-project.org/web/packages/MARSS/vignettes/UserGuide.pdf).
+
 Holmes EE, Ward EJ, __Scheuerell MD__. 2020. Analysis of multivariate time-series using the MARSS package, Version 3.10.12. [http://cran.r-project.org/web/packages/MARSS/vignettes/UserGuide.pdf](http://cran.r-project.org/web/packages/MARSS/vignettes/UserGuide.pdf).
 
 Buhle ER, __Scheuerell MD__, Cooney TD, Ford MJ, Zabel RW, Thorson JT. 2018. Using Integrated Population Models to Evaluate Fishery and Environmental Impacts on Pacific Salmon Viability. U.S. Department of Commerce, NOAA Technical Memorandum NMFS-NWFSC-140.
@@ -384,6 +395,8 @@ https://doi.org/10.5281/zenodo.439391
 \setlength{\leftskip}{0.375in}
 \setlength{\parskip}{8pt}
 \noindent
+
+Effects of species interactions and environmental drivers on the stability of freshwater communities. Western Society of Naturalists Meeting, November 8, 2024, Portland, Oregon
 
 Large-scale status assessments of at-risk species and efforts to recovery them. Upper Columbia Salmon Recovery Conference, January 25, 2024, Wenatchee, Washington
 
@@ -442,6 +455,8 @@ Impacts of lakeshore residential development on the spatial distribution and ene
 \setlength{\leftskip}{0.375in}
 \setlength{\parskip}{8pt}
 \noindent
+
+US National Science Foundation ($1.97M) 2024-2027. Rhythm and blooms: deciphering metabolic, functional and taxonomic interactions over the life cycle of a phytoplankton bloom. (Co-PI with Nunn, Kubanek, Rynearson)
 
 US National Park Service ($202k) 2022-2025. Estimating the natural range of abundance of pink salmon in the Indian River, Sitka National Historical Park. (sole PI)
 
@@ -569,40 +584,41 @@ Member, Biological Review Team, National Marine Fisheries Service Risk Assessmen
 \setlength{\parskip}{8pt}
 \noindent
 
-**College committees**
+**College of the Environment**
 
-College of the Environment, Academic Grievance Committee (2020-present)
+Member, Academic Grievance Committee, College of the Environment (2020-present)
 
-Quantitative Ecology and Resource Management, Qualifying Exam Committee (2020-present)
+Member, Qualifying Exam Committee, Quantitative Ecology and Resource Management (2020-2023)
 
-Center for Quantitative Sciences, Teaching Faculty Search Committee (2023-2024)
+Member, Teaching Faculty Search Committee, Center for Quantitative Sciences (2023-2024)
 
-School of Environmental and Forestry Sciences, Human Dimensions of Wildlife Faculty Search Committee (2020-2021)
+Member, Human Dimensions of Wildlife Faculty Search Committee, School of Environmental and Forestry Sciences (2020-2021)
 
-**School committees**
+**School of Aquatic and Fishery Sciences**
 
-School of Aquatic and Fishery Sciences, School Council (2023-present)
+Chair, Salmon Ecologist Faculty Search Committee (2022-2023)
 
-School of Aquatic and Fishery Sciences, Equity and Inclusion Committee (2021-present)
+Member, School Council (2023-present)
 
-School of Aquatic and Fishery Sciences, Students Exploring Aquatic Sciences (2020-present)
+Co-chair, Diversity, Equity and Inclusion Committee (2021-present)
 
-School of Aquatic and Fishery Sciences, Coastal Ecologist Faculty Search Committee (2022-2023)
+Faculty Liaison, Students Exploring Aquatic Sciences (2020-present)
 
-School of Aquatic and Fishery Sciences, Curriculum Committee (2020-2022)
+Member, Coastal Ecologist Faculty Search Committee (2022-2023)
 
-School of Aquatic and Fishery Sciences, Recruitment, Admission, and Scholarship Committee 
-(2019-2020, 2021-2022)
+Member, Curriculum Committee (2020-2022)
 
-**General service**
+Member, Recruitment, Admission, and Scholarship Committee (2019-2020, 2021-2022)
 
-Future Rivers Advisory Committee (2020-present)
+**General**
 
-Fish and Wildlife Ecology Seminar Series, co-organizer (2020–2021)
+Member, Future Rivers Advisory Committee (2020-present)
 
-Graduate School Academic Grievance Panel (2020)
+Co-organizer, Fish and Wildlife Ecology Seminar Series (2020–2021)
 
-Grant reviewer for Royalty Research Fund (2019, 2020)
+Member, Graduate School Academic Grievance Panel (2020)
+
+Reviewer, Royalty Research Fund (2019, 2020)
 
 \setlength{\parindent}{0in}
 \setlength{\leftskip}{0in}
@@ -663,6 +679,10 @@ __Postdoctoral scholars__
 \quad Eric Buhle (2007-2009)
 
 __Ph.D. students__
+
+\quad Angela Dillon (2024-present)
+
+\quad Nicole Doran (2024-present)
 
 \quad Brian McGreal (2023-present)
 
