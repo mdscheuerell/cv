@@ -143,15 +143,15 @@ Authors in italics were students or post-docs at the time the research was compl
 
 _Kuruvilla M_, Quinn TP, Anderson JH, **Scheuerell MD**, Miller EM, Berger AG, Okasaki C, McMillan JR, Pess GR, Westley PAH, Berdahl AM. Social influences complement environmental cues to stimulate migrating juvenile salmon. Movement Ecology
 
-Ohlberger J, Buhle ER, Buehrens TW, Kendall NW, Harbison T, Claiborn AM, Losee JP, Whitney J, **Scheuerell MD**. Declining marine survival of steelhead trout linked to climate and ecosystem change. Fish and Fisheries
-
 Harms TK, Hood J, **Scheuerell MD**, Creed I, Campbell JL, Fernandez I, Higgins SN, Johnson S, Shanley J, Sebestyen S, Webster KL, Yao H. Decomposing temporal variation in chemistry of headwater streams reveals long-term stability and recovery in the northern temperate zone. Biogeochemistry
 
-Jardine SL, Blair L, Burch C, Cooke A, Fonner R, Holland D, Kahn J, Lewis-Smith C, Rogers L, **Scheuerell MD**, Van Deynze B. What can fish passage restoration heuristics deliver? Conservation Letters
+Jardine SL, Blair L, Burch C, Cooke A, Fonner R, Holland D, Kahn J, Lewis-Smith C, Rogers L, **Scheuerell MD**, Van Deynze B. What can fish passage restoration heuristics deliver? Biological Conservation
 
 _Veggerby KB_, Wood CL, Quinn TP, **Scheuerell MD**. Climate-associated changes in the abundance of shrimp in Puget Sound, USA. Transactions of the American Fisheries Society
 
 [ _In press or published_ ]
+
+Ohlberger J, Buhle ER, Buehrens TW, Kendall NW, Harbison T, Claiborn AM, Losee JP, Whitney J, **Scheuerell MD**. 2025. Declining marine survival of steelhead trout linked to climate and ecosystem change. Fish and Fisheries https://doi.org/10.1111/faf.12878
 
 77\. _Sorel MH_, Jorgensen J, Zabel RW, __Scheuerell MD__, Murdoch AR, Kamphaus CM, Converse SJ. 2024. Incorporating life history diversity in an integrated population model to inform viability analysis. Canadian Journal of Fisheries and Aquatic Sciences. 81:535-548
 
@@ -370,6 +370,9 @@ Williams JG, Smith SG, Zabel RW, Muir WD, __Scheuerell MD__, Sandford BP, Marsh 
 \setlength{\parskip}{8pt}
 \noindent
 
+Buhle ER, __Scheuerell MD__. 2024. `{salmonIPM}`: Integrated Population Models for Pacific Salmonids. R package version 1.6.1
+https://zenodo.org/records/14511464
+
 Ward EJ, Marshall KN, __Scheuerell MD__. 2022. `{varlasso}`: An R Package for Regularized Bayesian VAR and VARSS models. R Package Version 1.1.1
 https://doi.org/10.5281/zenodo.6857994
 
@@ -386,6 +389,7 @@ https://doi.org/10.5281/zenodo.439391
 \setlength{\leftskip}{0in}
 \setlength{\parskip}{0pt}
 
+\newpage
 
 # Invited presentations 
 
@@ -514,6 +518,11 @@ American Fisheries Society
 _Chair_, Committee for the Mercer Patriarche _N Am J Fish Manag_ Best Paper Award (2006)  
 
 \setlength{\leftskip}{0in}
+
+Sigma Xi
+
+Society for the Advancement of Chicanos/Hispanics and Native Americans in Science
+
 \setlength{\parskip}{0pt}
 
 
@@ -596,13 +605,15 @@ Member, Human Dimensions of Wildlife Faculty Search Committee, School of Environ
 
 **School of Aquatic and Fishery Sciences**
 
-Chair, Salmon Ecologist Faculty Search Committee (2022-2023)
-
 Member, School Council (2023-present)
 
 Co-chair, Diversity, Equity and Inclusion Committee (2021-present)
 
 Faculty Liaison, Students Exploring Aquatic Sciences (2020-present)
+
+Chair, Salmon Ecologist Faculty Search Committee (2024-2025)
+
+Member, Assistant Teaching Professor Search Committee (2023-2024)
 
 Member, Coastal Ecologist Faculty Search Committee (2022-2023)
 
@@ -704,7 +715,9 @@ __M.S. students__
 
 __Undergraduate students__
 
-\quad Callie Murakami (Undergraduate researcher, 2024)
+\quad Callie Murakami (Undergraduate researcher, 2024-2025)
+
+\quad Olivia Michaels (Undergraduate Capstone Program, 2024-2025)
 
 \quad Quynhnhu Nguyen (Undergraduate Capstone Program, 2024)
 
