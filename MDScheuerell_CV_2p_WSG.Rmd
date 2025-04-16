@@ -41,25 +41,27 @@ USGS Washington Cooperative Fish and Wildlife Research Unit \hfill 2019 - presen
 _Associate Professor_  
 School of Aquatic and Fishery Sciences, University of Washington \hfill 2019 - present  
 
+_Affiliate Scientist_  
+eScience Institute, University of Washington \hfill 2021 - present  
+
+_Adjunct Faculty_  
+School of the Environment, Washington State University \hfill 2023 - present  
+
 _Research Fisheries Biologist_  
 Northwest Fisheries Science Center, NOAA Fisheries \hfill 2003 - 2019  
-
-_Affiliate Associate Professor_  
-School of Aquatic and Fishery Sciences, University of Washington \hfill 2016 - 2019  
-
-_Affiliate Assistant Professor_  
-School of Aquatic and Fishery Sciences, University of Washington \hfill 2007 - 2016  
 
 
 ## Professional recognition
 
 \vspace{-5pt}
 
+Excellence in Diversity, Equity and Inclusion, U.S. Geological Survey Cooperative Units Program (2024)
+
 Presidential Early Career Award for Scientists and Engineers, White House Office of Science and Technology Policy, Washington, District of Columbia (2006)
 
 Member, Ecological Society of America  
 
-Member, Association for the Sciences of Limnology and Oceanography  
+Sustaining Fellow, Association for the Sciences of Limnology and Oceanography  
 
 Member, American Fisheries Society  
 
@@ -68,13 +70,11 @@ Member, American Fisheries Society
 
 \vspace{-5pt}
 
-__Post-doctoral__
+__Postdoctoral scholars__
+
+\quad Dara Farrell (2021-2023)
 
 \quad Guillaume Bal (2012-2013, co-advised with EJ Ward)
-
-\quad Daniel Pendleton (2010-2012, co-advised with EE Holmes)
-
-\quad Jim Thorson (2011, co-advised with EE Holmes & EJ Ward)
 
 \quad Daniel Pendleton (2010-2012, co-advised with EE Holmes)
 
@@ -84,11 +84,29 @@ __Post-doctoral__
 
 \quad Eric Buhle (2007-2009)
 
+__Ph.D. students__
+
+\quad Angela Dillon (2024-present)
+
+\quad Nicole Doran (2024-present)
+
+\quad Brian McGreal (2023-present)
+
+\quad Markus Min (2020-present)
+
 __M.S. students__
 
-\quad Kelly Mistry, Univ Washington (2020-present)
+\quad Amirah Casey (2023-present)
 
-\quad Markus Min, Univ Washington (2020-present)
+\quad Tessa Code (2023-present)
+
+\quad Andrea Hennings (2021-present)
+
+\quad Nicole Doran (2021-2024)
+
+\quad Karl Veggerby (2021-2023)
+
+\quad Kelly Mistry (2020-2022)
 
 
 ## Principal publications related to this proposal
@@ -100,29 +118,23 @@ __M.S. students__
 \setlength{\parskip}{8pt}
 \noindent
 
-Magel C, __Scheuerell MD__, Buhle ER, Lewis DJ, Weeber M, Hacker SD. In review. Estuary and upland habitats are equally important for the production of threatened Oregon Coast coho salmon populations
+Harms TK, Hood J, **Scheuerell MD**, Creed I, Campbell JL, Fernandez I, Higgins SN, Johnson S, Shanley J, Sebestyen S, Webster KL, Yao H. In press. Decomposing temporal variation in chemistry of headwater streams reveals long-term stability and recovery in the northern temperate zone. Biogeochemistry
 
-DeFilippo LB, Buehrens TW, __Scheuerell MD__, Kendall NW, Schindler DE. In review. Improving short-term recruitment forecasts for coho salmon using a spatiotemporal integrated population model
+Elmstrom EJ, Holtgrieve GW, **Scheuerell MD**, Schauer AJ, Leazer K. 2024. Climate and landform interact to control the source and transport of nitrate in Pacific Northwest rivers. Communications Earth & Environment 5:90
 
-__Scheuerell MD__, Ruff CP, Anderson JH, Beamer EM. 2021. An integrated population model for estimating the relative effects of natural and anthropogenic factors on a threatened population of steelhead trout. Journal of Applied Ecology 58:114-124
+Min MA, Cope J, Lowry D, Selleck J, Tonnes D, Andrews K, Pacunski R, Hennings A, __Scheuerell MD__. 2023. Data‐limited fishery assessment methods shed light on the exploitation history and population dynamics of Endangered Species Act‐listed Yelloweye Rockfish in Puget Sound, Washington. Marine and Coastal Fisheries 15:e10251
+
+Ward EJ, Marshall K, __Scheuerell MD__. 2022. Regularizing priors for Bayesian VAR applications to large ecological datasets. PeerJ 10:e14332
+
+Webster A, Douglas T, Harms TK, Regier P, __Scheuerell MD__. 2022. Multi-scale temporal patterns in stream biogeochemistry indicate linked permafrost and ecological dynamics of boreal catchments. Ecosystems 25:1189–1206
+
+Quinn TP, __Scheuerell MD__, Losee JP, Hanada D. 2022. Multidecadal trends in body size of Puget Sound Chinook salmon: Analysis of data from the Tengu Derby, a culturally unique fishery. Marine and Coastal Fisheries 14:e10205
+
+Jankowski K, Houser JN, __Scheuerell MD__, Smits AP. 2021. Warmer winters increase phytoplankton biomass in a large floodplain river. Journal of Geophysical Research: Biogeosciences 126:e2020JG006135
 
 Thorson JT, __Scheuerell MD__, Olden JD, Schindler DE. 2018. Spatial heterogeneity contributes more to portfolio effects than species differences in bottom-associated marine fishes. Proceedings of the Royal Society B 285:20180915
 
-Buhle ER, __Scheuerell MD__, Cooney TD, Ford MJ, Zabel RW, Thorson JT. 2018. Using Integrated Population Models to Evaluate Fishery and Environmental Impacts on Pacific Salmon Viability. U.S. Department of Commerce, NOAA Technical Memorandum NMFS-NWFSC-140.
-
 Ward EJ, Oken K, Rose KA, Sable S, Watkins K, Holmes EE, __Scheuerell MD__. 2018. Applying spatiotemporal models to monitoring data to quantify fish responses to the Deepwater Horizon oil spill in the Gulf of Mexico. Environmental Monitoring and Assessment 190:530
-
-Bal G, __Scheuerell MD__, Ward EJ. 2018. Characterizing the strength of density dependence in at-risk species through Bayesian model averaging. Ecological Modelling 381:1-9
-
-Ardón M, Helton AM, __Scheuerell MD__, Bernhardt ES. 2017. Fertilizer legacies meet saltwater incursion: challenges and constraints for coastal plain wetland restoration. Elementa: Science of the Anthropocene 5:41
-
-Honea JM, McClure MM, Jorgensen JC, __Scheuerell MD__. 2016. Assessing the vulnerability of freshwater life stages of Chinook salmon to climate change. Climate Research 71:127-137
-
-__Scheuerell MD__, Buhle ER, Semmens BX, Ford MJ, Cooney T, Carmichael RW. 2015. Analyzing large-scale conservation interventions with Bayesian hierarchical models: A case study of supplementing threatened Pacific salmon. Ecology and Evolution 5:2115–2125
-
-Griffiths JR, Schindler DE, Armstrong JB, __Scheuerell MD__, Whited DC, Clarke RA, Hilborn R, Holt CA, Lindley ST, Stanford JA, Volk EC. 2014. Performance of salmon fishery portfolios across western North America. Journal of Applied Ecology 51:1554–1563
-
-Thorson JT, __Scheuerell MD__, Buhle ER, Copeland T. 2014. Spatial diversity buffers temporal variability in early juvenile survival for an endangered Pacific salmon. Journal of Animal Ecology 83:157–167
 
 
 \setlength{\parindent}{0in}
