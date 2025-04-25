@@ -30,42 +30,83 @@ knitr::opts_chunk$set(echo = TRUE)
   \textbf{Mark D. Scheuerell}
   \end{Large}
   
-  \textit{Curriculum vitae}
+U.S. Geological Survey  \break
+Washington Cooperative Fish and Wildlife Research Unit \break
+School of Aquatic and Fishery Sciences   \break
+University of Washington  \break
+Seattle, WA 98195-5020  \break
+mscheuerell@usgs.gov  \break
+(206) 543-5997
+
 \end{center}
 
   
-# Contact
-
-\vspace{-5pt}
-
-U.S. Geological Survey \newline
-Washington Cooperative Fish and Wildlife Research Unit \newline
-School of Aquatic and Fishery Sciences \hfill 206.543.5997 (tel)  
-University of Washington \hfill 206.221.6931 (fax)  
-PO Box 355020 \hfill scheuerl@uw.edu  
-Seattle, WA 98195-5020  \hfill https://fish.uw.edu/faculty/mark-scheuerell  
-
 
 # Education
 
 \vspace{-5pt}
 
-Ph.D., Zoology, University of Washington (2002)
+**University of Washington, Seattle, WA**  
+Degree: Ph.D.  
+Date conferred: June 2002  
+GPA: 3.7  
+Credits Earned: 109  
+Major: Zoology  
 
-M.S., Fishery and Aquatic Science, Cornell University (1995)  
+**Cornell University, Ithaca, NY**  
+Degree: M.S.  
+Date conferred: January 1996  
+GPA: 3.9  
+Credits Earned: 58  
+Major: Fishery and Aquatic Science  
 
-B.S., Zoology, University of Wisconsin (1991) 
+**University of Wisconsin, Madison, WI**  
+Degree: B.S.  
+Date conferred: May 1991  
+GPA: 3.2  
+Credits Earned: 120  
+Major: Zoology
 
 
-# Professional appointments
+# Employment history
+
+\vspace{-5pt}
+
+_Research Ecologist_ / _Assistant Unit Leader_  
+U.S. Geological Survey  
+Washington Cooperative Fish and Wildlife Research Unit  
+University of Washington, Box 355020, Seattle, Washington, USA 98195  
+Dates: May 2019 - present  
+Hours per week: 40  
+Series: 0408  
+Pay Plan: General Schedule (GS)  
+Grade: 15/07  
+Duties, Accomplishments and Related Skills:  
+
+Supervisor: Sarah Converse (206-221-5791)  
+Okay to contact this Supervisor: Yes
+
+
+_Supervisory Research Fisheries Biologist_  
+Northwest Fisheries Science Center, NOAA Fisheries  
+2725 Montlake Blvd E, Seattle, Washington, USA 98112
+Dates: April 2003 - May 2019
+Hours per week: 40  
+Series: 0482  
+Pay Plan: Pay Band (ZP)  
+Grade: 04  
+Duties, Accomplishments and Related Skills:  
+
+Supervisor: Beth Sanderson (206-860-3410)  
+Okay to contact this Supervisor: Yes
+
+
+# Academic appointments
 
 \vspace{-5pt}
 
 _H. Mason Keeler Endowed Professor in Sport Fisheries Management_  
 School of Aquatic and Fishery Sciences, University of Washington \hfill 2024 - present
-
-_Assistant Unit Leader - Fish_  
-USGS Washington Cooperative Fish and Wildlife Research Unit \hfill 2019 - present
 
 _Associate Professor_  
 School of Aquatic and Fishery Sciences, University of Washington \hfill 2019 - present  
@@ -79,16 +120,13 @@ eScience Institute, University of Washington \hfill 2021 - present
 _Adjunct Faculty_  
 School of the Environment, Washington State University \hfill 2023 - present  
 
-_Research Fisheries Biologist_  
-Northwest Fisheries Science Center, NOAA Fisheries \hfill 2003 - 2019  
-
 _Affiliate Associate Professor_  
 School of Aquatic and Fishery Sciences, University of Washington \hfill 2016 - 2019  
 
 _Affiliate Assistant Professor_  
 School of Aquatic and Fishery Sciences, University of Washington \hfill 2007 - 2016  
 
-_Post-doctoral Fellow_  
+_Postdoctoral Fellow_  
 National Research Council, National Academies of Sciences \hfill 2002 - 2003
 
 
@@ -113,6 +151,8 @@ Electric Power Research Institute Fellowship in Fish Population Biology (1994)
 \setlength{\leftskip}{0.375in}
 \setlength{\parskip}{8pt}
 \noindent
+
+Sustaining Fellow, Association for the Sciences of Limnology and Oceanography (2024)
 
 Presidential Early Career Award for Scientists and Engineers, White House Office of Science and Technology Policy, Washington, District of Columbia (2006)
 
@@ -141,7 +181,7 @@ Authors in italics were students or post-docs at the time the research was compl
 
 [ _In review_ ] 
 
-_Kuruvilla M_, Quinn TP, Anderson JH, **Scheuerell MD**, Miller EM, Berger AG, Okasaki C, McMillan JR, Pess GR, Westley PAH, Berdahl AM. Social influences complement environmental cues to stimulate migrating juvenile salmon. Movement Ecology
+_Kuruvilla M_, Quinn TP, Anderson JH, **Scheuerell MD**, _Miller EM_, Berger AG, Okasaki C, McMillan JR, Pess GR, Westley PAH, Berdahl AM. Social influences complement environmental cues to stimulate migrating juvenile salmon. Movement Ecology
 
 Harms TK, Hood J, **Scheuerell MD**, Creed I, Campbell JL, Fernandez I, Higgins SN, Johnson S, Shanley J, Sebestyen S, Webster KL, Yao H. Decomposing temporal variation in chemistry of headwater streams reveals long-term stability and recovery in the northern temperate zone. Biogeochemistry
 
@@ -389,8 +429,6 @@ https://doi.org/10.5281/zenodo.439391
 \setlength{\leftskip}{0in}
 \setlength{\parskip}{0pt}
 
-\newpage
-
 # Invited presentations 
 
 \vspace{-15pt}
@@ -510,6 +548,12 @@ _Secretary_, Aquatic Ecology Section (2008-2009)
 \setlength{\leftskip}{0in}
 
 Association for the Sciences of Limnology and Oceanography  
+
+\setlength{\leftskip}{0.375in}
+
+_Sustaining Fellow_ (2024)  
+
+\setlength{\leftskip}{0in}
 
 American Fisheries Society  
 
@@ -681,13 +725,13 @@ __Postdoctoral scholars__
 
 \quad Daniel Pendleton (2010-2012, co-advised with EE Holmes)
 
-\quad Jim Thorson (2011, co-advised with EE Holmes & EJ Ward)
+\quad James Thorson (2011, co-advised with EE Holmes & EJ Ward)
 
 \quad Kirstin Holsman (2007-2010)
 
 \quad Eric Buhle (2007-2009)
 
-__Ph.D. students__
+__Ph.D. students__ (served on an additional 19 student committees)
 
 \quad Angela Dillon (2024-present)
 
@@ -697,7 +741,7 @@ __Ph.D. students__
 
 \quad Markus Min (2020-present)
 
-__M.S. students__
+__M.S. students__ (served on an additional 11 student committees)
 
 \quad Amirah Casey (2023-present)
 
