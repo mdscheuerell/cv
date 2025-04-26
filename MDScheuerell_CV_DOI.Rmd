@@ -103,7 +103,7 @@ Northwest Fisheries Science Center, NOAA Fisheries
 2725 Montlake Blvd E, Seattle, Washington, USA 98112
 
 \linespread{1.125}\selectfont
-Dates: April 2003 - May 2019
+Dates: April 2003 - May 2019  
 Hours per week: 40  
 Series: 0482  
 Pay Plan: Pay Banding (ZP)  
