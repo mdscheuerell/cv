@@ -3,7 +3,11 @@ date: "`r paste0('v',format(Sys.time(), '%y.%m.%d'))`"
 output: 
   pdf_document:
     extra_dependencies: ["hanging", "fancyhdr", "datetime"]
-geometry: margin=1in
+geometry:
+- top=1in
+- bottom=1in
+- left=0.85in
+- right=0.85in
 urlcolor: black
 ---
 
@@ -11,13 +15,16 @@ urlcolor: black
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-\newdateformat{mydate}{\THEYEAR.\twodigit{\THEMONTH}}
+\def\short#1{\ifnum\shortA{#1}<10 0\fi \number\shortA{#1}}
+\def\shortA#1{\numexpr #1-((#1-50)/100)*100\relax}
+
+\newdateformat{mydate}{\short\year.\twodigit{\THEMONTH}}
 
 \pagestyle{fancy}
 \fancyhead[LO,LE]{MD Scheuerell}
 \fancyhead[CO,CE]{}
 \fancyhead[RO,RE]{\textit{Curriculum vitae}}
-\fancyfoot[LO,LE]{\mydate\today}
+\fancyfoot[LO,LE]{v\mydate\today}
 \fancyfoot[CO,CE]{}
 \fancyfoot[RO,RE]{\thepage}
 
@@ -36,6 +43,8 @@ knitr::opts_chunk$set(echo = TRUE)
   \end{Large}
   
 \vspace{4pt}
+
+U.S. Geological Survey \textperiodcentered \ Washington Cooperative Fish and Wildlife Research Unit
 
 School of Aquatic and Fishery Sciences \textperiodcentered \ University of Washington \textperiodcentered \ Seattle, WA   
 
