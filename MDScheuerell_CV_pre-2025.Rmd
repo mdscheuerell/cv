@@ -41,7 +41,7 @@ knitr::opts_chunk$set(echo = TRUE)
 School of Aquatic and Fishery Sciences \hfill 206.543.5997 (tel)  
 University of Washington \hfill 206.221.6931 (fax)  
 PO Box 355020 \hfill scheuerl@uw.edu  
-Seattle, WA 98195-5020  \hfill https://faculty.washington.edu/scheuerl  
+Seattle, WA 98195-5020  \hfill https://fish.uw.edu/faculty/mark-scheuerell  
 
 
 # Education
@@ -55,15 +55,27 @@ M.S., Fishery and Aquatic Science, Cornell University (1995)
 B.S., Zoology, University of Wisconsin (1991) 
 
 
-# Professional experience
+# Professional appointments
 
 \vspace{-5pt}
 
-_Assistant Unit Leader - Fisheries_  
+_H. Mason Keeler Endowed Professor in Sport Fisheries Management_  
+School of Aquatic and Fishery Sciences, University of Washington \hfill 2024 - present
+
+_Assistant Unit Leader - Fish_  
 USGS Washington Cooperative Fish and Wildlife Research Unit \hfill 2019 - present
 
 _Associate Professor_  
 School of Aquatic and Fishery Sciences, University of Washington \hfill 2019 - present  
+
+_Graduate Faculty_  
+Quantitative Ecology and Resource Management, University of Washington \hfill 2019 - present  
+
+_Affiliate Scientist_  
+eScience Institute, University of Washington \hfill 2021 - present  
+
+_Adjunct Faculty_  
+School of the Environment, Washington State University \hfill 2023 - present  
 
 _Research Fisheries Biologist_  
 Northwest Fisheries Science Center, NOAA Fisheries \hfill 2003 - 2019  
@@ -100,6 +112,8 @@ Electric Power Research Institute Fellowship in Fish Population Biology (1994)
 \setlength{\parskip}{8pt}
 \noindent
 
+Excellence in Diversity, Equity and Inclusion, U.S. Geological Survey Cooperative Units Program (2024)
+
 Presidential Early Career Award for Scientists and Engineers, White House Office of Science and Technology Policy, Washington, District of Columbia (2006)
 
 Best Student Presentation, American Fisheries Society, Alaska Chapter Annual Meeting, Girdwood, Alaska  (2002)  
@@ -116,11 +130,9 @@ Richard C. Snyder Award for Vertebrate Zoology Research, Department of Zoology, 
 
 \vspace{15pt}
 
-\Large __Publications__\footnote{Authors in italics were students or post-docs at the time the research was completed.}
+# Publications
 
-\normalsize
-
-\vspace{-10pt}
+Authors in italics were students or post-docs at the time the research was completed.  
 
 \setlength{\parindent}{-0.375in}
 \setlength{\leftskip}{0.375in}
@@ -129,17 +141,45 @@ Richard C. Snyder Award for Vertebrate Zoology Research, Department of Zoology, 
 
 [ _In review_ ] 
 
-_Magel CL_, __Scheuerell MD__, Buhle ER, Lewis DJ, Weeber M, Hacker SD. In review. Estuary and upland habitats are equally important for the production of threatened Oregon Coast coho salmon populations
+_Kuruvilla M_, Quinn TP, Anderson JH, **Scheuerell MD**, Miller EM, Berger AG, Okasaki C, McMillan JR, Pess GR, Westley PAH, Berdahl AM. Social influences complement environmental cues to stimulate migrating juvenile salmon. Movement Ecology
 
-_DeFilippo LB_, _Buehrens TW_, __Scheuerell MD__, Kendall NW, Schindler DE. In review. Improving short-term recruitment forecasts for coho salmon using a spatiotemporal integrated population model
+Harms TK, Hood J, **Scheuerell MD**, Creed I, Campbell JL, Fernandez I, Higgins SN, Johnson S, Shanley J, Sebestyen S, Webster KL, Yao H. Decomposing temporal variation in chemistry of headwater streams reveals long-term stability and recovery in the northern temperate zone. Biogeochemistry
 
-_Webster A_, Douglas T, Harms TK, Regier P, __Scheuerell MD__. In review. Multi-scale temporal patterns in stream biogeochemistry indicate linked permafrost and ecological dynamics of boreal catchments
+Jardine SL, Blair L, Burch C, Cooke A, Fonner R, Holland D, Kahn J, Lewis-Smith C, Rogers L, **Scheuerell MD**, Van Deynze B. What can fish passage restoration heuristics deliver? Biological Conservation
 
-_McGowan DW_, Branch TA, Haught S, __Scheuerell MD__. In review. Multi-decadal shifts in the distribution and timing of Pacific herring (_Clupea pallasii_) spawning in Prince William Sound, Alaska
-
-Jankowski K, Houser JN, __Scheuerell MD__, Smits AP. In review. Warmer winters increase phytoplankton biomass in a large floodplain river
+_Veggerby KB_, Wood CL, Quinn TP, **Scheuerell MD**. Climate-associated changes in the abundance of shrimp in Puget Sound, USA. Transactions of the American Fisheries Society
 
 [ _In press or published_ ]
+
+78\. Ohlberger J, Buhle ER, Buehrens TW, Kendall NW, Harbison T, Claiborn AM, Losee JP, Whitney J, **Scheuerell MD**. 2025. Declining marine survival of steelhead trout linked to climate and ecosystem change. Fish and Fisheries https://doi.org/10.1111/faf.12878
+
+77\. _Sorel MH_, Jorgensen J, Zabel RW, __Scheuerell MD__, Murdoch AR, Kamphaus CM, Converse SJ. 2024. Incorporating life history diversity in an integrated population model to inform viability analysis. Canadian Journal of Fisheries and Aquatic Sciences. 81:535-548
+
+76\. _Veggerby KB_, **Scheuerell MD**, Sanderson BL, Kiffney PM, Ferriss B. 2024. Shellfish aquaculture farms as foraging habitat for nearshore fishes and crabs. Marine and Coastal Fisheries. 16:e10282
+
+75\. _Elmstrom EJ_, Holtgrieve GW, **Scheuerell MD**, Schauer AJ, Leazer K. 2024. Climate and landform interact to control the source and transport of nitrate in Pacific Northwest rivers. Communications Earth & Environment 5:90
+
+74\. _Veggerby KB_, **Scheuerell MD**, Sanderson BL and Kiffney PM. 2024. Stable isotopes reveal intertidal fish and crabs use bivalve farms as foraging habitat in Puget Sound, Washington. Frontiers in Marine Sciences 10:1282225.
+
+73\. _Min MA_, Cope J, Lowry D, Selleck J, Tonnes D, Andrews K, Pacunski R, _Hennings A_, __Scheuerell MD__. 2023. Data‐limited fishery assessment methods shed light on the exploitation history and population dynamics of Endangered Species Act‐listed Yelloweye Rockfish in Puget Sound, Washington. Marine and Coastal Fisheries 15:e10251
+
+72\. \footnote{Both authors contributed equally to this work.}Jaeger WK, __Scheuerell MD__. 2023. Return(s) on investment: Restoration spending in the Columbia River Basin and increased abundance of salmon and steelhead. PLOS ONE 18:e0289246
+
+71\. _Sorel MH_, Murdoch AR, Zabel RW, Kamphaus CM, Buhle ER, __Scheuerell MD__, Converse SJ. 2023. Effects of population density and environmental conditions on life‐history prevalence in a migratory fish. 2023. Ecology and Evolution 13:e10087
+
+70\. Ward EJ, Marshall K, __Scheuerell MD__. 2022. Regularizing priors for Bayesian VAR applications to large ecological datasets. PeerJ 10:e14332
+
+69\. _Arnold L_, __Scheuerell MD__, Busch Isaksen T. 2022. Mortality associated with extreme heat in Washington State: the historical and projected public health burden. Atmosphere 13:1392
+
+68\. _Webster A_, Douglas T, Harms TK, Regier P, __Scheuerell MD__. 2022. Multi-scale temporal patterns in stream biogeochemistry indicate linked permafrost and ecological dynamics of boreal catchments. Ecosystems 25:1189–1206
+
+67\. Quinn TP, __Scheuerell MD__, Losee JP, Hanada D. 2022. Multidecadal trends in body size of Puget Sound Chinook salmon: Analysis of data from the Tengu Derby, a culturally unique fishery. Marine and Coastal Fisheries 14:e10205
+
+66\. Jankowski K, Houser JN, __Scheuerell MD__, Smits AP. 2021. Warmer winters increase phytoplankton biomass in a large floodplain river. Journal of Geophysical Research: Biogeosciences 126:e2020JG006135
+
+65\. _McGowan DW_, Branch TA, Haught S, __Scheuerell MD__. 2021. Multi-decadal shifts in the distribution and timing of Pacific herring (_Clupea pallasii_) spawning in Prince William Sound, Alaska. Canadian Journal of Fisheries and Aquatic Sciences 78:1611-1627
+
+64\. _DeFilippo LB_, _Buehrens TW_, __Scheuerell MD__, Kendall NW, Schindler DE. 2021. Improving short-term recruitment forecasts for coho salmon using a spatiotemporal integrated population model. Fisheries Research 242:106014
 
 63\. __Scheuerell MD__, Ruff CP, Anderson JH, Beamer EM. 2021. An integrated population model for estimating the relative effects of natural and anthropogenic factors on a threatened population of steelhead trout. Journal of Applied Ecology 58:114-124
 
@@ -161,7 +201,7 @@ Jankowski K, Houser JN, __Scheuerell MD__, Smits AP. In review. Warmer winters i
 
 54\. _Honea JM_, McClure MM, Jorgensen JC, __Scheuerell MD__. 2016. Assessing the vulnerability of freshwater life stages of Chinook salmon to climate change. Climate Research 71:127-137
 
-53\. _Goertler PAL_, __Scheuerell MD__, Simenstad CA, Bottom DL. 2016. Estimating common growth patterns in juvenile Chinook salmon (Oncorhynchus tshawytscha) from diverse genetic stocks and a large spatial extent. PLoS ONE 11:e0162121
+53\. _Goertler PAL_, __Scheuerell MD__, Simenstad CA, Bottom DL. 2016. Estimating common growth patterns in juvenile Chinook salmon (Oncorhynchus tshawytscha) from diverse genetic stocks and a large spatial extent. PLOS ONE 11:e0162121
 
 52\. \footnote{All junior authors listed in alphabetical order.}Thorson JT, Ianelli JN, Larsen EA, Ries L __Scheuerell MD__, Szuwalski CS, Zipkin EF. 2016. Joint dynamic species distribution models: a tool for community ordination and spatiotemporal monitoring. Global Ecology and Biogeography 25:1144–1158
 
@@ -179,7 +219,7 @@ Jankowski K, Houser JN, __Scheuerell MD__, Smits AP. In review. Warmer winters i
 
 45\. Thorson JT, __Scheuerell MD__, Semmens BX, Pattengill-Semmens C. 2014. Demographic modeling of citizen science data informs habitat preferences and population dynamics of recovering fishes. Ecology 95:3251-3258
 
-44\. _Francis TB_, _Wolkovich EM_, __Scheuerell MD__, Katz SL, Holmes EE, Hampton SE. 2014. Shifting regimes and changing interactions in the Lake Washington, U.S.A., plankton community from 1962–1994. PLoS ONE 9(10):e110363
+44\. _Francis TB_, _Wolkovich EM_, __Scheuerell MD__, Katz SL, Holmes EE, Hampton SE. 2014. Shifting regimes and changing interactions in the Lake Washington, U.S.A., plankton community from 1962–1994. PLOS ONE 9(10):e110363
 
 43\. _Griffiths JR_, Schindler DE, _Armstrong JB_, __Scheuerell MD__, Whited DC, Clarke RA, Hilborn R, Holt CA, Lindley ST, Stanford JA, Volk EC. 2014. Performance of salmon fishery portfolios across western North America. Journal of Applied Ecology 51:1554–1563
 
@@ -273,7 +313,7 @@ Jankowski K, Houser JN, __Scheuerell MD__, Smits AP. In review. Warmer winters i
 
 # Book chapters 
 
-\vspace{-20pt}
+\vspace{-15pt}
 
 \setlength{\parindent}{-0.375in}
 \setlength{\leftskip}{0.375in}
@@ -293,12 +333,14 @@ Dini ML, Soranno PA, __Scheuerell MD__, Carpenter SR. 1993. Effects of predators
 
 # Other publications 
 
-\vspace{-20pt}
+\vspace{-15pt}
 
 \setlength{\parindent}{-0.375in}
 \setlength{\leftskip}{0.375in}
 \setlength{\parskip}{8pt}
 \noindent
+
+Holmes EE, __Scheuerell MD__, Ward EJ. 2023. Analysis of multivariate time-series using the MARSS package, Version 3.11.7. [http://cran.r-project.org/web/packages/MARSS/vignettes/UserGuide.pdf](http://cran.r-project.org/web/packages/MARSS/vignettes/UserGuide.pdf).
 
 Holmes EE, Ward EJ, __Scheuerell MD__. 2020. Analysis of multivariate time-series using the MARSS package, Version 3.10.12. [http://cran.r-project.org/web/packages/MARSS/vignettes/UserGuide.pdf](http://cran.r-project.org/web/packages/MARSS/vignettes/UserGuide.pdf).
 
@@ -321,35 +363,48 @@ Williams JG, Smith SG, Zabel RW, Muir WD, __Scheuerell MD__, Sandford BP, Marsh 
 
 # Technical products 
 
-\vspace{-20pt}
+\vspace{-15pt}
 
 \setlength{\parindent}{-0.375in}
 \setlength{\leftskip}{0.375in}
 \setlength{\parskip}{8pt}
 \noindent
 
-Holmes EE, Ward EJ, __Scheuerell MD__, Willis K. 2020. MARSS: Multivariate Autoregressive State-Space Modeling. R Package Version 3.10.12
+Buhle ER, __Scheuerell MD__. 2024. `{salmonIPM}`: Integrated Population Models for Pacific Salmonids. R package version 1.6.1
+https://zenodo.org/records/14511464
+
+Ward EJ, Marshall KN, __Scheuerell MD__. 2022. `{varlasso}`: An R Package for Regularized Bayesian VAR and VARSS models. R Package Version 1.1.1
+https://doi.org/10.5281/zenodo.6857994
+
+Holmes EE, Ward EJ, __Scheuerell MD__, Willis K. 2020. `{MARSS}`: Multivariate Autoregressive State-Space Modeling. R Package Version 3.10.12
 https://cran.r-project.org/web/packages/MARSS/index.html
 
-Ward EJ, __Scheuerell MD__, Holmes EE. 2018. atsar: Applied Time Series Analysis in R: an introduction to time series analysis for ecological and fisheries data with Stan. R Package Version 1.0.1
+Ward EJ, __Scheuerell MD__, Holmes EE. 2018. `{atsar}`: Applied Time Series Analysis in R: An introduction to time series analysis for ecological and fisheries data with Stan. R Package Version 1.0.1
 https://doi.org/10.5281/zenodo.1158021
 
-__Scheuerell MD__. 2017. muti - An R package for computing mutual information. R Package Version 1.0.0
+__Scheuerell MD__. 2017. `{muti}`: An R package for computing mutual information. R Package Version 1.0.0
 https://doi.org/10.5281/zenodo.439391
 
 \setlength{\parindent}{0in}
 \setlength{\leftskip}{0in}
 \setlength{\parskip}{0pt}
 
+\newpage
 
 # Invited presentations 
 
-\vspace{-20pt}
+\vspace{-15pt}
 
 \setlength{\parindent}{-0.375in}
 \setlength{\leftskip}{0.375in}
 \setlength{\parskip}{8pt}
 \noindent
+
+Effects of species interactions and environmental drivers on the stability of freshwater communities. Western Society of Naturalists Meeting, November 8, 2024, Portland, Oregon
+
+Large-scale status assessments of at-risk species and efforts to recovery them. Upper Columbia Salmon Recovery Conference, January 25, 2024, Wenatchee, Washington
+
+Examining long-term trends in the size and abundance of at-risk salmonids in the Pacific Northwest. School of Aquatic and Fishery Sciences, University of Washington, October 21, 2021, Seattle, Washington
 
 Quantitative approaches for improved management and conservation of aquatic resources. School of Aquatic and Fishery Sciences, University of Washington, February 7, 2019, Seattle, Washington
 
@@ -398,12 +453,28 @@ Impacts of lakeshore residential development on the spatial distribution and ene
 
 # External support 
 
-\vspace{-20pt}
+\vspace{-15pt}
 
 \setlength{\parindent}{-0.375in}
 \setlength{\leftskip}{0.375in}
 \setlength{\parskip}{8pt}
 \noindent
+
+US National Science Foundation ($1.97M) 2024-2027. Rhythm and blooms: deciphering metabolic, functional and taxonomic interactions over the life cycle of a phytoplankton bloom. (Co-PI with Nunn, Kubanek, Rynearson)
+
+US National Park Service ($202k) 2022-2025. Estimating the natural range of abundance of pink salmon in the Indian River, Sitka National Historical Park. (sole PI)
+
+Washington Sea Grant ($255k) 2022-2024. Maximizing returns on investing in barrier culvert removal in Washington State. (Co-PI with Jardine, Van Deynze, Holland, Fonner)
+
+Washington Department of Fish and Wildlife ($100k) 2022-2023. Toxics in mussels monitoring program design. (sole PI)
+
+US Fish and Wildlife Service ($145k) 2021-2023. Evaluating the relative effects of top-down and bottom-up factors on declines in Lake Sammamish kokanee salmon. (sole PI)
+
+NOAA Fisheries ($135k) 2020-2023. Habitat function of shellfish aquaculture ecosystems: developing new technology to understand species use of nearshore habitats. (sole PI)
+
+NOAA National Oceanographic Partnership Program ($199k) 2020-2023. Advancing sustainable shellfish aquaculture through machine learning and automated data collection on fish communities (co-PI with Sanderson, Ferris)
+
+Pacific Salmon Commission Southern Boundary Restoration and Enhancement Fund ($104k) 2019-2020. Improving preseason forecasts for U.S. coho salmon management units by accounting for spatially structured temporal variation in age-at-maturity (co-PI with Schindler, Zimmerman)
 
 North Pacific Research Board ($82k) 2017-2018. Retrospective analysis of long-term census data to identify factors affecting survival and life history strategies of coho salmon (Collaborator with Tallmon, Vulstek)
 
@@ -447,6 +518,11 @@ American Fisheries Society
 _Chair_, Committee for the Mercer Patriarche _N Am J Fish Manag_ Best Paper Award (2006)  
 
 \setlength{\leftskip}{0in}
+
+Sigma Xi
+
+Society for the Advancement of Chicanos/Hispanics and Native Americans in Science
+
 \setlength{\parskip}{0pt}
 
 
@@ -470,23 +546,25 @@ Manuscript reviewer for
 
 \setlength{\leftskip}{0.375in}
 
-_Behavioural Ecology\textperiodcentered Canadian Journal of Fisheries and Aquatic Sciences\textperiodcentered Canadian Journal of Zoology\textperiodcentered Conservation Biology\textperiodcentered Ecography\textperiodcentered Ecological Applications\textperiodcentered Ecological Modelling\textperiodcentered Ecology\textperiodcentered Ecology and Society\textperiodcentered Ecology Letters\textperiodcentered Ecosphere\textperiodcentered Ecosystems\textperiodcentered Environmental Biology of Fishes\textperiodcentered Fisheries Oceanography\textperiodcentered Freshwater Biology\textperiodcentered Frontiers in Ecology and the Environment\textperiodcentered Global Change Biology\textperiodcentered Journal of Animal Ecology\textperiodcentered Journal of Applied Ecology\textperiodcentered Journal of Bioeconomics\textperiodcentered Limnology and Oceanography\textperiodcentered North American Journal of Fisheries Management\textperiodcentered Oecologia\textperiodcentered Oikos\textperiodcentered PLoS Biology\textperiodcentered PLoS ONE\textperiodcentered Proceedings of the National Academy of Sciences\textperiodcentered  Transactions of the American Fisheries Society\textperiodcentered  Trends in Ecology and Evolution_
+_Behavioural Ecology\textperiodcentered Canadian Journal of Fisheries and Aquatic Sciences\textperiodcentered Canadian Journal of Zoology\textperiodcentered Conservation Biology\textperiodcentered Ecography\textperiodcentered Ecological Applications\textperiodcentered Ecological Modelling\textperiodcentered Ecology\textperiodcentered Ecology and Society\textperiodcentered Ecology Letters\textperiodcentered Ecosphere\textperiodcentered Ecosystems\textperiodcentered Environmental Biology of Fishes\textperiodcentered Fisheries Oceanography\textperiodcentered Freshwater Biology\textperiodcentered Frontiers in Ecology and the Environment\textperiodcentered Global Change Biology\textperiodcentered Journal of Animal Ecology\textperiodcentered Journal of Applied Ecology\textperiodcentered Journal of Bioeconomics\textperiodcentered Limnology and Oceanography\textperiodcentered North American Journal of Fisheries Management\textperiodcentered Oecologia\textperiodcentered Oikos\textperiodcentered PLOS Biology\textperiodcentered PLOS ONE\textperiodcentered Proceedings of the National Academy of Sciences\textperiodcentered  Transactions of the American Fisheries Society\textperiodcentered  Trends in Ecology and Evolution_
 
 \setlength{\leftskip}{0in}
 
 \setlength{\parskip}{0pt}
 
 
-# National & international service 
+# National & International service 
 
-\vspace{-20pt}
+\vspace{-15pt}
 
 \setlength{\parindent}{-0.375in}
 \setlength{\leftskip}{0.375in}
 \setlength{\parskip}{8pt}
 \noindent
 
-Member, Analytic and Review Team, Bull Trout Status Assessment, U.S. Fish and Wildlife Service (2020-present)
+Member, U.S. Geological Survey Cooperative Research Units Diversity, Equity, and Inclusion Committee (2020-2022)
+
+Member, Analytic and Review Team, Bull Trout Status Assessment, U.S. Fish and Wildlife Service (2020-2022)
 
 Mentor, EcologyPlus Program from NSF INCLUDES (Inclusion across the Nation of Communities of Learners of Underrepresented Discoverers in Engineering and Science) (2018-2019)
 
@@ -506,6 +584,57 @@ Member, Biological Review Team, National Marine Fisheries Service Risk Assessmen
 \setlength{\leftskip}{0in}
 \setlength{\parskip}{0pt}
 
+# University of Washington service
+
+\vspace{-15pt}
+
+\setlength{\parindent}{-0.375in}
+\setlength{\leftskip}{0.375in}
+\setlength{\parskip}{8pt}
+\noindent
+
+**College of the Environment**
+
+Member, Academic Grievance Committee, College of the Environment (2020-present)
+
+Member, Qualifying Exam Committee, Quantitative Ecology and Resource Management (2020-2023)
+
+Member, Teaching Faculty Search Committee, Center for Quantitative Sciences (2023-2024)
+
+Member, Human Dimensions of Wildlife Faculty Search Committee, School of Environmental and Forestry Sciences (2020-2021)
+
+**School of Aquatic and Fishery Sciences**
+
+Member, School Council (2023-present)
+
+Co-chair, Diversity, Equity and Inclusion Committee (2021-present)
+
+Faculty Liaison, Students Exploring Aquatic Sciences (2020-present)
+
+Chair, Salmon Ecologist Faculty Search Committee (2024-2025)
+
+Member, Assistant Teaching Professor Search Committee (2023-2024)
+
+Member, Coastal Ecologist Faculty Search Committee (2022-2023)
+
+Member, Curriculum Committee (2020-2022)
+
+Member, Recruitment, Admission, and Scholarship Committee (2019-2020, 2021-2022)
+
+**General**
+
+Member, Future Rivers Advisory Committee (2020-present)
+
+Co-organizer, Fish and Wildlife Ecology Seminar Series (2020–2021)
+
+Member, Graduate School Academic Grievance Panel (2020)
+
+Reviewer, Royalty Research Fund (2019, 2020)
+
+\setlength{\parindent}{0in}
+\setlength{\leftskip}{0in}
+\setlength{\parskip}{0pt}
+
 
 # Teaching experience  
 
@@ -513,19 +642,25 @@ Member, Biological Review Team, National Marine Fisheries Service Risk Assessmen
 
 \setlength{\parskip}{8pt}
 
-_Introduction to Environmental Data Science_    
+_Proposal Writing and Professional Development for Graduate Students (FISH 521)_    
+Instructor, University of Washington \hfill 2022 - present  
+
+_Best Practices in Environmental Data Science (FISH 549)_    
 Instructor, University of Washington \hfill 2021 - present  
 
-_Analysis of Ecological and Environmental Data_    
+_Analysis of Ecological and Environmental Data (QERM 514)_    
 Instructor, University of Washington \hfill 2020 - present  
 
-_Applied Time Series Analysis in Fisheries and Environmental Sciences_    
+_Applied Time Series Analysis in Fisheries and Environmental Sciences (FISH 550)_    
 Co-Instructor, University of Washington \hfill 2013 - present  
+
+_Introduction to Time Series Analysis (SOE 592)_  
+Instructor, Washington State University \hfill 2024  
 
 _Applied Time Series Analyses for Ecologists_  
 Visiting Instructor, Stockholm University \hfill 2014  
 
-_Theory and Application of Stable Isotopes in Ecology_  
+_Theory and Application of Stable Isotopes in Ecology (FISH 507)_  
 Visiting Instructor, University of Washington \hfill 2005 - 2007
 
 _Limnology_; _Vertebrate Zoology_; _Comparative Vertebrate Anatomy_  
@@ -534,15 +669,15 @@ Teaching Assistant, University of Washington \hfill 1997 - 2000
 \setlength{\parskip}{0pt}
 
 
-
-
 # Trainees
 
 \vspace{-10pt}
 
 \setlength{\parskip}{6pt}
 
-__Post-doctoral__
+__Postdoctoral scholars__
+
+\quad Dara Farrell (2021-2023)
 
 \quad Guillaume Bal (2012-2013, co-advised with EJ Ward)
 
@@ -556,30 +691,50 @@ __Post-doctoral__
 
 __Ph.D. students__
 
-\quad Caitlin Magel, Oregon St Univ (2018-2020, ad-hoc committee member)
+\quad Angela Dillon (2024-present)
 
-\quad Tessa Francis, Univ Washington (2004-2008, committee member)
+\quad Nicole Doran (2024-present)
+
+\quad Brian McGreal (2023-present)
+
+\quad Markus Min (2020-present)
 
 __M.S. students__
 
-\quad Kelly Mistry, Univ Washington (2020-present, chair)
+\quad Amirah Casey (2023-present)
 
-\quad Markus Min, Univ Washington (2020-present, chair)
+\quad Tessa Code (2023-present)
 
-\quad Casey Ralston, Univ Washington (2013-2014, committee member)
+\quad Andrea Hennings (2021-present)
 
-\quad Pascale Goertler, Univ Washington (2011-2014, ad hoc committee member)
+\quad Nicole Doran (2021-2024)
 
-\quad Megan Stachura, Univ Washington (2011-2013, ad-hoc committee member)
+\quad Karl Veggerby (2021-2023)
 
-\quad Jessica Beetz, Univ Washington (2007-2009, committee member)
-
-\quad Harry Rich, Univ Washington (2005-2006, ad-hoc committee member)
+\quad Kelly Mistry (2020-2022)
 
 __Undergraduate students__
 
-\quad Kerrianne McCarthy, Univ Washington (2019-2020, Undergraduate Capstone Program)
+\quad Callie Murakami (Undergraduate researcher, 2024-2025)
 
-\quad Christina Murphy, Oregon St Univ (2007, NOAA Ernest F. Hollings Undergraduate Scholarship Program)
+\quad Olivia Michaels (Undergraduate Capstone Program, 2024-2025)
+
+\quad Quynhnhu Nguyen (Undergraduate Capstone Program, 2024)
+
+\quad Kiley Foster (Undergraduate Capstone Program, 2024)
+
+\quad Sarah Hensley (IBIS Undergraduate, 2023; Undergraduate researcher, 2024)
+
+\quad Olivia Anderson (IBIS Undergraduate, 2023)
+
+\quad Emily Sheppard (Undergraduate Capstone Program, 2022-2023)
+
+\quad Amy Velasco (Undergraduate Capstone Program, 2022-2023)
+
+\quad Jeremy Leung (Undergraduate Capstone Program, 2022)
+
+\quad Kerrianne McCarthy (Undergraduate Capstone Program, 2019-2020)
+
+\quad Christina Murphy (NOAA Ernest F. Hollings Undergraduate Scholar, 2007)
 
 \setlength{\parskip}{0pt}

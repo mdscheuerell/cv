@@ -26,22 +26,27 @@ knitr::opts_chunk$set(echo = TRUE)
 \renewcommand{\thefootnote}{\fnsymbol{footnote}}
 
 \begin{center}
+
+  \textit{Curriculum vitae}
+
+\vspace{6pt}
+
   \begin{Large}
   \textbf{Mark D. Scheuerell}
   \end{Large}
   
-  \textit{Curriculum vitae}
+\vspace{4pt}
+
+School of Aquatic and Fishery Sciences \textperiodcentered \ University of Washington \textperiodcentered \ Seattle, WA   
+
+scheuerl@uw.edu \textperiodcentered \ https://fish.uw.edu/faculty/mark-scheuerell \textperiodcentered \ 206.543.5997 
+
 \end{center}
 
   
-# Contact
 
 \vspace{-5pt}
 
-School of Aquatic and Fishery Sciences \hfill 206.543.5997 (tel)  
-University of Washington \hfill 206.221.6931 (fax)  
-PO Box 355020 \hfill scheuerl@uw.edu  
-Seattle, WA 98195-5020  \hfill https://fish.uw.edu/faculty/mark-scheuerell  
 
 
 # Education
@@ -55,30 +60,35 @@ M.S., Fishery and Aquatic Science, Cornell University (1995)
 B.S., Zoology, University of Wisconsin (1991) 
 
 
-# Professional appointments
+# Employment
+
+\vspace{-5pt}
+
+_Assistant Unit Leader_ | _Research Ecologist_  
+USGS Washington Cooperative Fish and Wildlife Research Unit \hfill 2019 - present
+
+_Research Fisheries Biologist_  
+Northwest Fisheries Science Center, NOAA Fisheries \hfill 2003 - 2019  
+
+
+# Academic appointments
 
 \vspace{-5pt}
 
 _H. Mason Keeler Endowed Professor in Sport Fisheries Management_  
 School of Aquatic and Fishery Sciences, University of Washington \hfill 2024 - present
 
-_Assistant Unit Leader - Fish_  
-USGS Washington Cooperative Fish and Wildlife Research Unit \hfill 2019 - present
-
-_Associate Professor_  
-School of Aquatic and Fishery Sciences, University of Washington \hfill 2019 - present  
-
-_Graduate Faculty_  
-Quantitative Ecology and Resource Management, University of Washington \hfill 2019 - present  
+_Adjunct Faculty_  
+School of the Environment, Washington State University \hfill 2023 - present  
 
 _Affiliate Scientist_  
 eScience Institute, University of Washington \hfill 2021 - present  
 
-_Adjunct Faculty_  
-School of the Environment, Washington State University \hfill 2023 - present  
+_Graduate Faculty_  
+Quantitative Ecology and Resource Management, University of Washington \hfill 2019 - present  
 
-_Research Fisheries Biologist_  
-Northwest Fisheries Science Center, NOAA Fisheries \hfill 2003 - 2019  
+_Associate Professor (Without Tenure)_  
+School of Aquatic and Fishery Sciences, University of Washington \hfill 2019 - present  
 
 _Affiliate Associate Professor_  
 School of Aquatic and Fishery Sciences, University of Washington \hfill 2016 - 2019  
@@ -86,7 +96,7 @@ School of Aquatic and Fishery Sciences, University of Washington \hfill 2016 - 2
 _Affiliate Assistant Professor_  
 School of Aquatic and Fishery Sciences, University of Washington \hfill 2007 - 2016  
 
-_Post-doctoral Fellow_  
+_Postdoctoral Fellow_  
 National Research Council, National Academies of Sciences \hfill 2002 - 2003
 
 
@@ -112,17 +122,19 @@ Electric Power Research Institute Fellowship in Fish Population Biology (1994)
 \setlength{\parskip}{8pt}
 \noindent
 
-Excellence in Diversity, Equity and Inclusion, U.S. Geological Survey Cooperative Units Program (2024)
+Sustaining Fellow, Association for the Sciences of Limnology and Oceanography (2024)
 
-Presidential Early Career Award for Scientists and Engineers, White House Office of Science and Technology Policy, Washington, District of Columbia (2006)
+Excellence in Diversity, Equity and Inclusion, U.S. Geological Survey Cooperative Units Program (2023)
 
-Best Student Presentation, American Fisheries Society, Alaska Chapter Annual Meeting, Girdwood, Alaska  (2002)  
+Presidential Early Career Award for Scientists and Engineers, White House Office of Science and Technology Policy (2006)
 
-Best Student Presentation, Ecological Society of America Annual Meeting, Aquatic Section, Madison, Wisconsin (2001)  
+Best Student Presentation, American Fisheries Society, Alaska Chapter Annual Meeting  (2002)  
 
-Ingrith Deyrup-Olsen Award for Distinguished Teaching Assistant, Department of Zoology, University of Washington, Seattle, Washington (2000)  
+Best Student Presentation, Ecological Society of America Annual Meeting, Aquatic Section (2001)  
 
-Richard C. Snyder Award for Vertebrate Zoology Research, Department of Zoology, University of Washington, Seattle, Washington (1999)
+Ingrith Deyrup-Olsen Award for Distinguished Teaching Assistant, Department of Zoology, University of Washington (2000)  
+
+Richard C. Snyder Award for Vertebrate Zoology Research, Department of Zoology, University of Washington (1999)
 
 \setlength{\parindent}{0in}
 \setlength{\leftskip}{0in}
@@ -143,13 +155,15 @@ Authors in italics were students or post-docs at the time the research was compl
 
 _Kuruvilla M_, Quinn TP, Anderson JH, **Scheuerell MD**, Miller EM, Berger AG, Okasaki C, McMillan JR, Pess GR, Westley PAH, Berdahl AM. Social influences complement environmental cues to stimulate migrating juvenile salmon. Movement Ecology
 
-Harms TK, Hood J, **Scheuerell MD**, Creed I, Campbell JL, Fernandez I, Higgins SN, Johnson S, Shanley J, Sebestyen S, Webster KL, Yao H. Decomposing temporal variation in chemistry of headwater streams reveals long-term stability and recovery in the northern temperate zone. Biogeochemistry
+_Min MA_, Buchanan RA, **Scheuerell MD**. Modeling climate and hydropower influences on the movement decisions of an anadromous species.
 
 Jardine SL, Blair L, Burch C, Cooke A, Fonner R, Holland D, Kahn J, Lewis-Smith C, Rogers L, **Scheuerell MD**, Van Deynze B. What can fish passage restoration heuristics deliver? Biological Conservation
 
 _Veggerby KB_, Wood CL, Quinn TP, **Scheuerell MD**. Climate-associated changes in the abundance of shrimp in Puget Sound, USA. Transactions of the American Fisheries Society
 
 [ _In press or published_ ]
+
+79.\ Harms TK, Hood J, **Scheuerell MD**, Creed I, Campbell JL, Fernandez I, Higgins SN, Johnson S, Shanley J, Sebestyen S, Webster KL, Yao H. Decomposing temporal variation in chemistry of headwater streams reveals long-term stability and recovery in the northern temperate zone. Biogeochemistry
 
 78\. Ohlberger J, Buhle ER, Buehrens TW, Kendall NW, Harbison T, Claiborn AM, Losee JP, Whitney J, **Scheuerell MD**. 2025. Declining marine survival of steelhead trout linked to climate and ecosystem change. Fish and Fisheries https://doi.org/10.1111/faf.12878
 
