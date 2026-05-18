@@ -162,13 +162,13 @@ Authors in italics were students or post-docs at the time the research was compl
 
 [ _In review_ ] 
 
-Jardine SL, Blair L, Burch C, Cooke A, Fonner R, Holland D, Kahn J, Lewis-Smith C, Rogers L, **Scheuerell MD**, Van Deynze B. What can fish passage restoration heuristics deliver? Biological Conservation
-
 _Veggerby KB_, Wood CL, Quinn TP, **Scheuerell MD**. Climate-associated changes in the abundance of shrimp in Puget Sound, USA. Transactions of the American Fisheries Society
 
 [ _In press or published_ ]
 
-81\. _Kuruvilla M_, Quinn TP, Anderson JH, **Scheuerell MD**, _Miller EM_, Berger AG, Okasaki C, McMillan JR, Pess GR, Westley PAH, Berdahl AM. 2026. Social influences complement environmental cues to stimulate migrating juvenile salmon. Movement Ecology
+82\. Jardine SL, Blair L, Burch C, Cooke A, Fonner R, Holland D, Kahn J, Lewis-Smith C, Rogers L, **Scheuerell MD**, Van Deynze B. 2026. Improving restoration heuristics to support anadromous fish passage. PLOS ONE
+
+81\. _Kuruvilla M_, Quinn TP, Anderson JH, **Scheuerell MD**, _Miller EM_, Berger AG, Okasaki C, McMillan JR, Pess GR, Westley PAH, Berdahl AM. 2026. Social influences complement environmental cues to stimulate migrating juvenile salmon. Movement Ecology https://doi.org/10.1186/s40462-026-00644-y
 
 80\. _Min MA_, Buchanan RA, **Scheuerell MD**. 2025. Modeling climate and hydropower influences on the movement decisions of an anadromous species. Global Change Biology 31:e70533
 
@@ -737,6 +737,8 @@ __M.S. students__
 \quad Kelly Mistry (2020-2022)
 
 __Undergraduate students__
+
+\quad Jaycee Williford (IBIS Undergraduate, 2026)
 
 \quad Callie Murakami (Undergraduate researcher, 2024-2025)
 
