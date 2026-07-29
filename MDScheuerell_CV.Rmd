@@ -46,9 +46,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 U.S. Geological Survey \textperiodcentered \ Washington Cooperative Fish and Wildlife Research Unit
 
-School of Aquatic and Fishery Sciences \textperiodcentered \ University of Washington \textperiodcentered \ Seattle, WA   
-
-scheuerl@uw.edu \textperiodcentered \ https://fish.uw.edu/faculty/mark-scheuerell \textperiodcentered \ 206.543.5997 
+School of Aquatic and Fishery Sciences \textperiodcentered \ University of Washington \textperiodcentered \ Seattle, WA
 
 \end{center}
 
@@ -162,11 +160,15 @@ Authors in italics were students or post-docs at the time the research was compl
 
 [ _In review_ ] 
 
+_Anderson OD_, _Doran NC_, **Scheuerell MD**, Jensen JS. Comparison of carbon and nitrogen isotope values for three _Oncorhynchus nerka_ ecotypes. Northwestern Naturalist 
+
+_Min MA_, Burke BJ, Crozier LG, Morgan CA, Zamon JE, Auth TD, Thorson JT, **Scheuerell MD**. Trophic drivers of salmon marine survival revealed by spatiotemporal data integration. Fish and Fisheries
+
 _Veggerby KB_, Wood CL, Quinn TP, **Scheuerell MD**. Climate-associated changes in the abundance of shrimp in Puget Sound, USA. Transactions of the American Fisheries Society
 
 [ _In press or published_ ]
 
-82\. Jardine SL, Blair L, Burch C, Cooke A, Fonner R, Holland D, Kahn J, Lewis-Smith C, Rogers L, **Scheuerell MD**, Van Deynze B. 2026. Improving restoration heuristics to support anadromous fish passage. PLOS ONE
+82\. Jardine SL, Blair L, Burch C, Cooke A, Fonner R, Holland D, _Kahn J_, Lewis-Smith C, Rogers L, **Scheuerell MD**, Van Deynze B. 2026. Improving restoration heuristics to support anadromous fish passage. PLoS One 21(6): e0348150. https://doi.org/10.1371/journal.pone.0348150
 
 81\. _Kuruvilla M_, Quinn TP, Anderson JH, **Scheuerell MD**, _Miller EM_, Berger AG, Okasaki C, McMillan JR, Pess GR, Westley PAH, Berdahl AM. 2026. Social influences complement environmental cues to stimulate migrating juvenile salmon. Movement Ecology https://doi.org/10.1186/s40462-026-00644-y
 
@@ -722,7 +724,7 @@ __Ph.D. students__
 
 \quad Brian McGreal (2023-present)
 
-\quad Markus Min (2020-present)
+\quad Markus Min (2020-2026)
 
 __M.S. students__
 
@@ -740,7 +742,7 @@ __Undergraduate students__
 
 \quad Jaycee Williford (IBIS Undergraduate, 2026)
 
-\quad Callie Murakami (Undergraduate researcher, 2024-2025)
+\quad Callie Murakami (Undergraduate researcher, 2024-2026)
 
 \quad Olivia Michaels (Undergraduate Capstone Program, 2024-2025)
 
